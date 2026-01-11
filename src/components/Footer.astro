@@ -2,17 +2,16 @@
 import ArrowIcon from '../icons/ArrowIcon.astro'
 ---
 
-<footer class="container-base pb-8">
+<footer class="container-base pb-8 text-stone-200">
   <div class="flex gap-6 text-lg">
     <a
       href="https://github.com/hagelstam"
       target="_blank"
       rel="noopener noreferrer"
       class="nav-link flex items-center gap-2"
+      aria-label="Visit my GitHub profile"
     >
-      <span class="text-stone-300">
-        <ArrowIcon />
-      </span>
+      <ArrowIcon />
       <span>github</span>
     </a>
     <a
@@ -20,10 +19,9 @@ import ArrowIcon from '../icons/ArrowIcon.astro'
       target="_blank"
       rel="noopener noreferrer"
       class="nav-link flex items-center gap-2"
+      aria-label="Visit my LinkedIn profile"
     >
-      <span class="text-stone-300">
-        <ArrowIcon />
-      </span>
+      <ArrowIcon />
       <span>linkedin</span>
     </a>
   </div>
