@@ -1,16 +1,22 @@
 ---
-
+import Layout from '../layouts/Layout.astro'
 ---
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} />
-    <title>Maximilian Hagelstam</title>
-  </head>
-  <body>
-    <h1>Maximilian Hagelstam</h1>
-  </body>
-</html>
+<Layout title="Maximilian Hagelstam">
+  <article class="space-y-6 text-[17px] leading-relaxed">
+    <h1 class="mb-8 text-2xl leading-tight font-normal tracking-tight">
+      Maximilian Hagelstam
+    </h1>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus ex
+      sapien vitae pellentesque sem placerat in id cursus mi pretium tellus duis
+      convallis tempus leo eu aenean sed diam.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus ex
+      sapien vitae pellentesque sem placerat in id cursus mi pretium tellus duis
+      convallis tempus leo eu aenean sed diam urna tempor pulvinar vivamus
+      fringilla lacus nec metus bibendum egestas.
+    </p>
+  </article>
+</Layout>
