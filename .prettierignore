@@ -1,0 +1,6 @@
+.vercel/
+.astro/
+.vscode/
+dist/
+node_modules/
+src/content/reading.md
