@@ -35,6 +35,9 @@ func main() {
 		{URL: "https://jvns.ca/atom.xml", Name: "Julia Evans"},
 		{URL: "https://mitchellh.com/feed.xml", Name: "Mitchell Hashimoto"},
 		{URL: "https://blog.samaltman.com/posts.atom", Name: "Sam Altman"},
+		{URL: "https://erikbern.com/feed.xml", Name: "Erik Bernhardsson"},
+		{URL: "https://feeds.feedburner.com/ThePragmaticEngineer", Name: "Gergely Orosz"},
+		{URL: "https://thorstenball.com/atom.xml", Name: "Thorsten Ball"},
 	}
 
 	var articles []Article
