@@ -1,6 +1,23 @@
-@import url('https://fonts.googleapis.com/css2?family=STIX+Two+Text:ital,wght@0,400..700;1,400..700&display=swap');
 @import 'tailwindcss';
 
 @theme {
   --font-sitx: 'STIX Two Text', serif;
+}
+
+@layer utilities {
+  .container-base {
+    @apply mx-auto max-w-2xl px-6;
+  }
+
+  .heading {
+    @apply mb-8 text-3xl leading-tight font-normal tracking-tight;
+  }
+
+  .nav-link {
+    @apply underline decoration-transparent decoration-1 underline-offset-4 transition-all duration-100 hover:text-white hover:decoration-current;
+  }
+
+  .external-link {
+    @apply underline decoration-stone-500 decoration-1 underline-offset-[2.5px] transition-colors hover:decoration-stone-400;
+  }
 }
