@@ -1,0 +1,76 @@
+---
+import Layout from '../layouts/Layout.astro'
+import Link from '../components/Link.astro'
+import fs from 'fs'
+import path from 'path'
+
+interface Article {
+  date: string
+  title: string
+  link: string
+  blogName: string
+}
+
+const readingPath = path.join(process.cwd(), 'src/content/reading.md')
+const articles: Article[] = []
+
+try {
+  const content = fs.readFileSync(readingPath, 'utf-8')
+  const lines = content.split('\n')
+
+  for (const line of lines) {
+    const match = line.match(
+      /^- (\d{2}\.\d{2}\.\d{4}) \[(.*?)\]\((.*?)\) - (.*)$/,
+    )
+    if (match) {
+      articles.push({
+        date: match[1]!,
+        title: match[2]!,
+        link: match[3]!,
+        blogName: match[4]!,
+      })
+    }
+  }
+} catch (error) {
+  console.error('error parsing reading list:', error)
+}
+---
+
+<Layout>
+  <article class="space-y-6 text-lg leading-relaxed">
+    <h1 class="heading">Reading</h1>
+
+    <p>
+      This page is auto-generated from a Github Actions workflow that runs every
+      night and fetches the 5 latest articles from my favorite blogs.
+    </p>
+
+    <p>
+      The list of blogs I follow can be found in the{' '}
+      <Link
+        href="https://github.com/hagelstam/maximilianhagelstam.com/blob/main/reading.go"
+      >
+        source code
+      </Link>.
+    </p>
+
+    <div class="space-y-2">
+      {
+        articles.map((article) => (
+          <div class="text-lg">
+            <span class="text-stone-400">{article.date}</span>{' '}
+            <a
+              href={article.link}
+              class="external-link"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {article.title}
+            </a>{' '}
+            <span class="text-stone-400">- {article.blogName}</span>
+          </div>
+        ))
+      }
+    </div>
+  </article>
+</Layout>
