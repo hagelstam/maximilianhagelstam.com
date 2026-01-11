@@ -3,6 +3,7 @@ name: Check
 on:
   push:
     branches: [main]
+    paths-ignore: ['src/content/**']
   pull_request:
     branches: [main]
 
