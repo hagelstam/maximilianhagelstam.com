@@ -12,12 +12,17 @@ This page is automatically updated every night with the latest posts from blogs 
 - 08.01.2026 [My favorite musical discoveries of 2025](https://martinfowler.com/articles/2025-music.html) - Martin Fowler
 - 08.01.2026 [Fragments: January 8](https://martinfowler.com/fragments/2026-01-08.html) - Martin Fowler
 - 08.01.2026 [A data model for Git (and other docs upd...](https://jvns.ca/blog/2026/01/08/a-data-model-for-git/) - Julia Evans
+- 07.01.2026 [The grief when AI writes most of the cod...](https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/) - Gergely Orosz
+- 18.12.2025 [The Pulse: Cloudflare’s latest outage ...](https://blog.pragmaticengineer.com/the-pulse-cloudflares-latest-outage/) - Gergely Orosz
 - 18.12.2025 [Pop quiz: what time was it?](https://dave.cheney.net/2025/12/18/pop-quiz-what-time-was-it) - Dave Cheney
 - 16.12.2025 [Fragments: December 16](https://martinfowler.com/fragments/2025-12-16.html) - Martin Fowler
 - 16.12.2025 [Writing Fragments](https://martinfowler.com/articles/writing-fragments.html) - Martin Fowler
+- 13.12.2025 [The Pulse: Could a 5-day RTO be around t...](https://blog.pragmaticengineer.com/the-pulse-could-a-5-day-rto-be-around-the-corner-for-big-tech/) - Gergely Orosz
 - 11.12.2025 [Fragments Dec 11](https://martinfowler.com/articles/2025-12-11-frags.html) - Martin Fowler
+- 05.12.2025 [Downdetector and the real cost of no ups...](https://blog.pragmaticengineer.com/downdetector-and-the-real-cost-of-no-upstream-dependencies/) - Gergely Orosz
 - 03.12.2025 [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit) - Mitchell Hashimoto
 - 27.11.2025 [Pointer pop quiz](https://dave.cheney.net/2025/11/27/pointer-pop-quiz) - Dave Cheney
+- 21.11.2025 [A startup in Mongolia translated my book](https://blog.pragmaticengineer.com/traveling-to-mongolia/) - Gergely Orosz
 - 14.11.2025 [Go’s Sweet 16](https://go.dev/blog/16years) - Go Blog
 - 29.10.2025 [The Green Tea Garbage Collector](https://go.dev/blog/greenteagc) - Go Blog
 - 11.10.2025 [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing) - Mitchell Hashimoto
@@ -36,9 +41,19 @@ This page is automatically updated every night with the latest posts from blogs 
 - 10.06.2025 [Using `make` to compile C programs (for ...](https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/) - Julia Evans
 - 25.04.2025 [Differential Coverage for Debugging](https://research.swtch.com/diffcover) - Russ Cox
 - 07.03.2025 [Standards for ANSI escape codes](https://jvns.ca/blog/2025/03/07/escape-code-standards/) - Julia Evans
+- 27.09.2024 [It's hard to write code for computers, b...](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html) - Erik Bernhardsson
 - 18.07.2024 [Hash-Based Bisect Debugging in Compilers...](https://research.swtch.com/bisect) - Russ Cox
+- 07.04.2024 [Predicting solar eclipses with Python](https://erikbern.com/2024/04/07/predicting-solar-eclipses-with-python.html) - Erik Bernhardsson
 - 02.04.2024 [The xz attack shell script](https://research.swtch.com/xz-script) - Russ Cox
 - 02.04.2024 [Timeline of the xz open source attack](https://research.swtch.com/xz-timeline) - Russ Cox
 - 21.02.2024 [Microblog: TestMain can cause one to que...](https://dave.cheney.net/2024/02/22/microblog-testmain-can-cause-one-to-question-reality) - Dave Cheney
+- 13.12.2023 [Simple sabotage for software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html) - Erik Bernhardsson
+- 07.12.2022 [What I have been working on: Modal](https://erikbern.com/2022/12/07/what-ive-been-working-on-modal.html) - Erik Bernhardsson
+- 19.10.2022 [We are still early with the cloud: why s...](https://erikbern.com/2022/10/19/we-are-still-early-with-the-cloud.html) - Erik Bernhardsson
+- 17.05.2022 [Professional Programming: The First 10 Y...](http://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/) - Thorsten Ball
 - 05.01.2021 [A few bytes here, a few there, pretty so...](https://dave.cheney.net/2021/01/05/a-few-bytes-here-a-few-there-pretty-soon-youre-talking-real-memory) - Dave Cheney
 - 15.12.2020 [The story of the one line fix](https://dave.cheney.net/2020/12/15/the-story-of-the-one-line-fix) - Dave Cheney
+- 15.09.2020 [The context in which we build software](http://thorstenball.com/blog/2020/09/15/the-context-in-which-we-build-software/) - Thorsten Ball
+- 08.09.2020 [How can you not be romantic about progra...](http://thorstenball.com/blog/2020/09/08/how-can-you-not-be-romantic-about-programming/) - Thorsten Ball
+- 01.09.2020 [No, typing can be the bottleneck](http://thorstenball.com/blog/2020/09/01/typing-can-be-the-bottleneck/) - Thorsten Ball
+- 25.08.2020 [But does it help you ship?](http://thorstenball.com/blog/2020/08/25/but-does-it-help-you-ship/) - Thorsten Ball
