@@ -28,16 +28,28 @@ const MAX_TITLE_LENGTH = 40
 
 func main() {
 	feeds := []RSSFeed{
-		{URL: "https://martinfowler.com/feed.atom", Name: "Martin Fowler"},
-		{URL: "https://blog.golang.org/feed.atom", Name: "Go Blog"},
-		{URL: "https://dave.cheney.net/feed", Name: "Dave Cheney"},
-		{URL: "https://research.swtch.com/feed.atom", Name: "Russ Cox"},
-		{URL: "https://jvns.ca/atom.xml", Name: "Julia Evans"},
 		{URL: "https://mitchellh.com/feed.xml", Name: "Mitchell Hashimoto"},
 		{URL: "https://blog.samaltman.com/posts.atom", Name: "Sam Altman"},
 		{URL: "https://erikbern.com/feed.xml", Name: "Erik Bernhardsson"},
+		{URL: "https://martinfowler.com/feed.atom", Name: "Martin Fowler"},
+		{URL: "https://jvns.ca/atom.xml", Name: "Julia Evans"},
 		{URL: "https://feeds.feedburner.com/ThePragmaticEngineer", Name: "Gergely Orosz"},
 		{URL: "https://thorstenball.com/atom.xml", Name: "Thorsten Ball"},
+		{URL: "https://simonwillison.net/atom/everything/", Name: "Simon Willison"},
+		{URL: "https://blog.alexellis.io/rss/", Name: "Alex Ellis"},
+		{URL: "https://samwho.dev/rss.xml", Name: "Sam Rose"},
+		{URL: "https://eli.thegreenplace.net/feeds/all.atom.xml", Name: "Eli Bendersky"},
+
+		{URL: "https://netflixtechblog.medium.com/feed", Name: "Netflix"},
+		{URL: "https://tailscale.com/blog/index.xml", Name: "Tailscale"},
+		{URL: "https://engineering.atspotify.com/feed", Name: "Spotify"},
+
+		{URL: "https://newsletter.posthog.com/feed", Name: "PostHog"},
+		{URL: "https://highscalability.com/rss", Name: "High Scalability"},
+
+		// {URL: "https://fideloper.com/feed", Name: "Chris Fidao"},
+		// {URL: "http://www.aaronsw.com/2002/feeds/pgessays.rss", Name: "Paul Graham"},
+		// {URL: "https://research.swtch.com/feed.atom", Name: "Russ Cox"},
 	}
 
 	var articles []Article
