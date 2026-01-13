@@ -7,19 +7,19 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
-- 12.01.2026 [Superhuman AI Exfiltrates Emails](https://simonwillison.net/2026/Jan/12/superhuman-ai-exfiltrates-emails/#atom-everything) - Simon Willison
-- 12.01.2026 [First impressions of Claude Cowork, Anth...](https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-everything) - Simon Willison
+- 12.01.2026 [First impressions of Claude Cowork, Anth...](https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-entries) - Simon Willison
 - 12.01.2026 [How I actually get good advice](https://newsletter.posthog.com/p/how-i-actually-get-good-advice) - PostHog
-- 11.01.2026 [Don't fall into the anti-AI hype](https://simonwillison.net/2026/Jan/11/dont-fall-into-the-anti-ai-hype/#atom-everything) - Simon Willison
-- 11.01.2026 [My answers to the questions I posed abou...](https://simonwillison.net/2026/Jan/11/answers/#atom-everything) - Simon Willison
-- 11.01.2026 [TIL from taking Neon I at the Crucible](https://simonwillison.net/2026/Jan/11/neon-i-at-the-crucible/#atom-everything) - Simon Willison
+- 11.01.2026 [My answers to the questions I posed abou...](https://simonwillison.net/2026/Jan/11/answers/#atom-entries) - Simon Willison
 - 10.01.2026 [Finding and Fixing Ghostty's Largest Mem...](https://mitchellh.com/writing/ghostty-memory-leak-fix) - Mitchell Hashimoto
+- 09.01.2026 [Fly's new Sprites.dev addresses both dev...](https://simonwillison.net/2026/Jan/9/sprites-dev/#atom-entries) - Simon Willison
+- 08.01.2026 [LLM predictions for 2026, shared with Ox...](https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#atom-entries) - Simon Willison
 - 08.01.2026 [My favorite musical discoveries of 2025](https://martinfowler.com/articles/2025-music.html) - Martin Fowler
 - 08.01.2026 [Fragments: January  8](https://martinfowler.com/fragments/2026-01-08.html) - Martin Fowler
 - 08.01.2026 [Mendix Cloud Private Connectivity powere...](https://tailscale.com/blog/mendix-cloud-private-connectivity-beta) - Tailscale
 - 08.01.2026 [A data model for Git (and other docs upd...](https://jvns.ca/blog/2026/01/08/a-data-model-for-git/) - Julia Evans
 - 07.01.2026 [The grief when AI writes most of the cod...](https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/) - Gergely Orosz
 - 07.01.2026 [Why We Use Separate Tech Stacks for Pers...](https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation/) - Spotify
+- 01.01.2026 [Introducing gisthost.github.io](https://simonwillison.net/2026/Jan/1/gisthost/#atom-entries) - Simon Willison
 - 01.01.2026 [Towards Generalizable and Efficient Larg...](https://netflixtechblog.com/towards-generalizable-and-efficient-large-scale-generative-recommenders-a7db648aa257?source=rss-c3aeaf49d8a4------2) - Netflix
 - 01.01.2026 [Summary of reading: October - December 2...](https://eli.thegreenplace.net/2025/summary-of-reading-october-december-2025/) - Eli Bendersky
 - 23.12.2025 [2025](/2025/) - Sam Rose
