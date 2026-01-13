@@ -7,12 +7,13 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 12.01.2026 [Superhuman AI Exfiltrates Emails](https://simonwillison.net/2026/Jan/12/superhuman-ai-exfiltrates-emails/#atom-everything) - Simon Willison
+- 12.01.2026 [First impressions of Claude Cowork, Anth...](https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-everything) - Simon Willison
+- 12.01.2026 [How I actually get good advice](https://newsletter.posthog.com/p/how-i-actually-get-good-advice) - PostHog
 - 11.01.2026 [Don't fall into the anti-AI hype](https://simonwillison.net/2026/Jan/11/dont-fall-into-the-anti-ai-hype/#atom-everything) - Simon Willison
 - 11.01.2026 [My answers to the questions I posed abou...](https://simonwillison.net/2026/Jan/11/answers/#atom-everything) - Simon Willison
-- 11.01.2026 [Quoting Linus Torvalds](https://simonwillison.net/2026/Jan/11/linus-torvalds/#atom-everything) - Simon Willison
-- 10.01.2026 [A Software Library with No Code](https://simonwillison.net/2026/Jan/10/a-software-library-with-no-code/#atom-everything) - Simon Willison
+- 11.01.2026 [TIL from taking Neon I at the Crucible](https://simonwillison.net/2026/Jan/11/neon-i-at-the-crucible/#atom-everything) - Simon Willison
 - 10.01.2026 [Finding and Fixing Ghostty's Largest Mem...](https://mitchellh.com/writing/ghostty-memory-leak-fix) - Mitchell Hashimoto
-- 09.01.2026 [Fly's new Sprites.dev addresses both dev...](https://simonwillison.net/2026/Jan/9/sprites-dev/#atom-everything) - Simon Willison
 - 08.01.2026 [My favorite musical discoveries of 2025](https://martinfowler.com/articles/2025-music.html) - Martin Fowler
 - 08.01.2026 [Fragments: January  8](https://martinfowler.com/fragments/2026-01-08.html) - Martin Fowler
 - 08.01.2026 [Mendix Cloud Private Connectivity powere...](https://tailscale.com/blog/mendix-cloud-private-connectivity-beta) - Tailscale
@@ -50,7 +51,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 13.11.2025 [Shuffle: Making Random Feel More Human](https://engineering.atspotify.com/2025/11/shuffle-making-random-feel-more-human/) - Spotify
 - 11.11.2025 [Collaboration sucks](https://newsletter.posthog.com/p/collaboration-sucks) - PostHog
 - 06.11.2025 [1,500+ PRs Later: Spotify’s Journey wi...](https://engineering.atspotify.com/2025/11/spotifys-background-coding-agent-part-1/) - Spotify
-- 27.10.2025 [Non-obvious pricing advice for startups](https://newsletter.posthog.com/p/non-obvious-pricing-advice-for-startups) - PostHog
 - 25.10.2025 [LaTeX, LLMs and Boring Technology](https://eli.thegreenplace.net/2025/latex-llms-and-boring-technology/) - Eli Bendersky
 - 11.10.2025 [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing) - Mitchell Hashimoto
 - 10.10.2025 [Notes on switching to Helix from vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/) - Julia Evans
