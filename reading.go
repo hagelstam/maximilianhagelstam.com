@@ -35,7 +35,7 @@ func main() {
 		{URL: "https://jvns.ca/atom.xml", Name: "Julia Evans"},
 		{URL: "https://feeds.feedburner.com/ThePragmaticEngineer", Name: "Gergely Orosz"},
 		{URL: "https://thorstenball.com/atom.xml", Name: "Thorsten Ball"},
-		{URL: "https://simonwillison.net/atom/everything/", Name: "Simon Willison"},
+		{URL: "https://simonwillison.net/atom/entries", Name: "Simon Willison"},
 		{URL: "https://blog.alexellis.io/rss/", Name: "Alex Ellis"},
 		{URL: "https://samwho.dev/rss.xml", Name: "Sam Rose"},
 		{URL: "https://eli.thegreenplace.net/feeds/all.atom.xml", Name: "Eli Bendersky"},
