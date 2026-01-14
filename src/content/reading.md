@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 13.01.2026 [Stop Picking Sides: Manage the Tension B...](https://martinfowler.com/articles/stop-picking-sides.html) - Martin Fowler
 - 12.01.2026 [First impressions of Claude Cowork, Anth...](https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-entries) - Simon Willison
 - 12.01.2026 [How I actually get good advice](https://newsletter.posthog.com/p/how-i-actually-get-good-advice) - PostHog
 - 11.01.2026 [My answers to the questions I posed abou...](https://simonwillison.net/2026/Jan/11/answers/#atom-entries) - Simon Willison
@@ -34,7 +35,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 15.12.2025 [How Temporal Powers Reliable Cloud Opera...](https://netflixtechblog.com/how-temporal-powers-reliable-cloud-operations-at-netflix-73c69ccb5953?source=rss-c3aeaf49d8a4------2) - Netflix
 - 15.12.2025 [Netflix Live Origin](https://netflixtechblog.com/netflix-live-origin-41f1b0ad5371?source=rss-c3aeaf49d8a4------2) - Netflix
 - 13.12.2025 [The Pulse: Could a 5-day RTO be around t...](https://blog.pragmaticengineer.com/the-pulse-could-a-5-day-rto-be-around-the-corner-for-big-tech/) - Gergely Orosz
-- 11.12.2025 [Fragments Dec 11](https://martinfowler.com/articles/2025-12-11-frags.html) - Martin Fowler
 - 10.12.2025 [Revisiting "Let's Build a Compiler"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/) - Eli Bendersky
 - 09.12.2025 [Your product ideas probably suck (that's...](https://newsletter.posthog.com/p/a-simple-guide-to-validating-product) - PostHog
 - 09.12.2025 [Background Coding Agents: Predictable Re...](https://engineering.atspotify.com/2025/12/feedback-loops-background-coding-agents-part-3/) - Spotify
