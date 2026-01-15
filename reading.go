@@ -39,6 +39,7 @@ func main() {
 		{URL: "https://blog.alexellis.io/rss/", Name: "Alex Ellis"},
 		{URL: "https://samwho.dev/rss.xml", Name: "Sam Rose"},
 		{URL: "https://eli.thegreenplace.net/feeds/all.atom.xml", Name: "Eli Bendersky"},
+		{URL: "https://world.hey.com/dhh/feed.atom", Name: "DHH"},
 
 		{URL: "https://netflixtechblog.medium.com/feed", Name: "Netflix"},
 		{URL: "https://tailscale.com/blog/index.xml", Name: "Tailscale"},
