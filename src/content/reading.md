@@ -20,6 +20,7 @@ This page is automatically updated every night with the latest posts from blogs 
 - 08.01.2026 [A data model for Git (and other docs upd...](https://jvns.ca/blog/2026/01/08/a-data-model-for-git/) - Julia Evans
 - 07.01.2026 [The grief when AI writes most of the cod...](https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/) - Gergely Orosz
 - 07.01.2026 [Why We Use Separate Tech Stacks for Pers...](https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation/) - Spotify
+- 07.01.2026 [Promoting AI agents](https://world.hey.com/dhh/promoting-ai-agents-3ee04945) - DHH
 - 01.01.2026 [Introducing gisthost.github.io](https://simonwillison.net/2026/Jan/1/gisthost/#atom-entries) - Simon Willison
 - 01.01.2026 [Towards Generalizable and Efficient Larg...](https://netflixtechblog.com/towards-generalizable-and-efficient-large-scale-generative-recommenders-a7db648aa257?source=rss-c3aeaf49d8a4------2) - Netflix
 - 01.01.2026 [Summary of reading: October - December 2...](https://eli.thegreenplace.net/2025/summary-of-reading-october-december-2025/) - Eli Bendersky
@@ -30,6 +31,7 @@ This page is automatically updated every night with the latest posts from blogs 
 - 18.12.2025 [How Blacksmith used Tailscale Services t...](https://tailscale.com/blog/blacksmith-tailscale-services-isp-degradation) - Tailscale
 - 18.12.2025 [Plugins case study: mdBook preprocessors](https://eli.thegreenplace.net/2025/plugins-case-study-mdbook-preprocessors/) - Eli Bendersky
 - 16.12.2025 [Chat-tails: Throwback terminal chat, bui...](https://tailscale.com/blog/chat-tails-terminal-chat) - Tailscale
+- 16.12.2025 [The O'Saasy License](https://world.hey.com/dhh/the-o-saasy-license-336c5c8f) - DHH
 - 16.12.2025 [Fragments: December 16](https://martinfowler.com/fragments/2025-12-16.html) - Martin Fowler
 - 16.12.2025 [Writing Fragments](https://martinfowler.com/articles/writing-fragments.html) - Martin Fowler
 - 15.12.2025 [How Temporal Powers Reliable Cloud Opera...](https://netflixtechblog.com/how-temporal-powers-reliable-cloud-operations-at-netflix-73c69ccb5953?source=rss-c3aeaf49d8a4------2) - Netflix
@@ -38,10 +40,13 @@ This page is automatically updated every night with the latest posts from blogs 
 - 10.12.2025 [Revisiting "Let's Build a Compiler"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/) - Eli Bendersky
 - 09.12.2025 [Your product ideas probably suck (that's...](https://newsletter.posthog.com/p/a-simple-guide-to-validating-product) - PostHog
 - 09.12.2025 [Background Coding Agents: Predictable Re...](https://engineering.atspotify.com/2025/12/feedback-loops-background-coding-agents-part-3/) - Spotify
+- 09.12.2025 [Europe is weak and delusional (but not d...](https://world.hey.com/dhh/europe-is-weak-and-delusional-but-not-doomed-8b10e7cb) - DHH
 - 05.12.2025 [Downdetector and the real cost of no ups...](https://blog.pragmaticengineer.com/downdetector-and-the-real-cost-of-no-upstream-dependencies/) - Gergely Orosz
+- 03.12.2025 [Fizzy is our fun, modern take on Kanban ...](https://world.hey.com/dhh/fizzy-is-our-fun-modern-take-on-kanban-and-we-made-it-open-source-54ac41b6) - DHH
 - 03.12.2025 [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit) - Mitchell Hashimoto
 - 01.12.2025 [AV1 — Now Powering 30% of Netflix ...](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80?source=rss-c3aeaf49d8a4------2) - Netflix
 - 01.12.2025 [Let's put Tailscale on a jailbroken Kind...](https://tailscale.com/blog/tailscale-jailbroken-kindle) - Tailscale
+- 01.12.2025 [Six billion reasons to cheer for Shopify](https://world.hey.com/dhh/six-billion-reasons-to-cheer-for-shopify-55720846) - DHH
 - 25.11.2025 [How startups lose their edge](https://newsletter.posthog.com/p/how-startups-lose-their-edge) - PostHog
 - 25.11.2025 [Notes on the WASM Basic C ABI](https://eli.thegreenplace.net/2025/notes-on-the-wasm-basic-c-abi/) - Eli Bendersky
 - 24.11.2025 [Background Coding Agents: Context Engine...](https://engineering.atspotify.com/2025/11/context-engineering-background-coding-agents-part-2/) - Spotify
