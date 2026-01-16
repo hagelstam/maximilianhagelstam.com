@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 15.01.2026 [Tailscale the Terraform way](https://tailscale.com/blog/open-source-terraform-module) - Tailscale
 - 13.01.2026 [Stop Picking Sides: Manage the Tension B...](https://martinfowler.com/articles/stop-picking-sides.html) - Martin Fowler
 - 12.01.2026 [First impressions of Claude Cowork, Anth...](https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-entries) - Simon Willison
 - 12.01.2026 [How I actually get good advice](https://newsletter.posthog.com/p/how-i-actually-get-good-advice) - PostHog
@@ -45,7 +46,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 03.12.2025 [Fizzy is our fun, modern take on Kanban ...](https://world.hey.com/dhh/fizzy-is-our-fun-modern-take-on-kanban-and-we-made-it-open-source-54ac41b6) - DHH
 - 03.12.2025 [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit) - Mitchell Hashimoto
 - 01.12.2025 [AV1 — Now Powering 30% of Netflix ...](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80?source=rss-c3aeaf49d8a4------2) - Netflix
-- 01.12.2025 [Let's put Tailscale on a jailbroken Kind...](https://tailscale.com/blog/tailscale-jailbroken-kindle) - Tailscale
 - 01.12.2025 [Six billion reasons to cheer for Shopify](https://world.hey.com/dhh/six-billion-reasons-to-cheer-for-shopify-55720846) - DHH
 - 25.11.2025 [How startups lose their edge](https://newsletter.posthog.com/p/how-startups-lose-their-edge) - PostHog
 - 25.11.2025 [Notes on the WASM Basic C ABI](https://eli.thegreenplace.net/2025/notes-on-the-wasm-basic-c-abi/) - Eli Bendersky
