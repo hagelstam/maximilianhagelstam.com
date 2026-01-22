@@ -38,7 +38,9 @@ const description = "Maximilian Hagelstam's personal website."
     <meta property="og:description" content={description} />
     <meta property="og:site_name" content="Maximilian Hagelstam" />
   </head>
-  <body class="font-sitx bg-stone-900 text-stone-100 antialiased">
+  <body
+    class="font-sitx no-scrollbar overflow-y-scroll bg-stone-900 text-stone-100 antialiased"
+  >
     <Header />
     <main class="container-base py-16">
       <slot />
