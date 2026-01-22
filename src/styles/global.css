@@ -1,17 +1,7 @@
 @import 'tailwindcss';
 
-@font-face {
-  font-family: 'Times Adjusted';
-  src: local('Times New Roman'), local('Times');
-  size-adjust: 105%;
-  ascent-override: 95%;
-  descent-override: 25%;
-  line-gap-override: 0%;
-}
-
 @theme {
-  --font-sitx:
-    'STIX Two Text', 'Times Adjusted', 'Times New Roman', Times, serif;
+  --font-sitx: 'STIX Two Text', 'Times New Roman', serif;
 }
 
 @layer utilities {
