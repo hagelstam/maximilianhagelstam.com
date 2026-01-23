@@ -7,6 +7,9 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 22.01.2026 [Congratulations to the recipients of the...](https://engineering.atspotify.com/2026/1/congratulations-to-the-recipients-of-the-2025-spotify-foss-fund/) - Spotify
+- 22.01.2026 [Tailscale + BlueBubbles puts iMessage on...](https://tailscale.com/blog/bluebubbles-tailscale-imessage-android-pc-no-port-forwarding) - Tailscale
+- 22.01.2026 [Fragments: January 22](https://martinfowler.com/fragments/2026-01-22.html) - Martin Fowler
 - 21.01.2026 [Hypergrowth isn't always easy](https://tailscale.com/blog/hypergrowth-isnt-always-easy) - Tailscale
 - 21.01.2026 [Conversation: LLMs and the what/how loop](https://martinfowler.com/articles/convo-what-how.html) - Martin Fowler
 - 21.01.2026 [Don't Trip[wire] Yourself: Testing Error...](https://mitchellh.com/writing/tripwire) - Mitchell Hashimoto
@@ -33,10 +36,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 22.12.2025 [The best of Product for Engineers in 202...](https://newsletter.posthog.com/p/the-best-of-product-for-engineers) - PostHog
 - 19.12.2025 [This month at Tailscale for December 202...](https://tailscale.com/blog/december-25-product-update) - Tailscale
 - 18.12.2025 [The Pulse: Cloudflare’s latest outage ...](https://blog.pragmaticengineer.com/the-pulse-cloudflares-latest-outage/) - Gergely Orosz
-- 18.12.2025 [How Blacksmith used Tailscale Services t...](https://tailscale.com/blog/blacksmith-tailscale-services-isp-degradation) - Tailscale
 - 18.12.2025 [Plugins case study: mdBook preprocessors](https://eli.thegreenplace.net/2025/plugins-case-study-mdbook-preprocessors/) - Eli Bendersky
 - 16.12.2025 [The O'Saasy License](https://world.hey.com/dhh/the-o-saasy-license-336c5c8f) - DHH
-- 16.12.2025 [Fragments: December 16](https://martinfowler.com/fragments/2025-12-16.html) - Martin Fowler
 - 15.12.2025 [How Temporal Powers Reliable Cloud Opera...](https://netflixtechblog.com/how-temporal-powers-reliable-cloud-operations-at-netflix-73c69ccb5953?source=rss-c3aeaf49d8a4------2) - Netflix
 - 15.12.2025 [Netflix Live Origin](https://netflixtechblog.com/netflix-live-origin-41f1b0ad5371?source=rss-c3aeaf49d8a4------2) - Netflix
 - 13.12.2025 [The Pulse: Could a 5-day RTO be around t...](https://blog.pragmaticengineer.com/the-pulse-could-a-5-day-rto-be-around-the-corner-for-big-tech/) - Gergely Orosz
@@ -57,7 +58,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 17.11.2025 [Integrating Netflix’s Foundation Model...](https://netflixtechblog.medium.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss-c3aeaf49d8a4------2) - Netflix
 - 13.11.2025 [Shuffle: Making Random Feel More Human](https://engineering.atspotify.com/2025/11/shuffle-making-random-feel-more-human/) - Spotify
 - 11.11.2025 [Collaboration sucks](https://newsletter.posthog.com/p/collaboration-sucks) - PostHog
-- 06.11.2025 [1,500+ PRs Later: Spotify’s Journey wi...](https://engineering.atspotify.com/2025/11/spotifys-background-coding-agent-part-1/) - Spotify
 - 11.10.2025 [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing) - Mitchell Hashimoto
 - 10.10.2025 [Notes on switching to Helix from vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/) - Julia Evans
 - 04.10.2025 [Sora update #1](https://blog.samaltman.com/sora-update-number-1) - Sam Altman
