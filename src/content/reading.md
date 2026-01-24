@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 23.01.2026 [Wilson Lin on FastRender: a browser buil...](https://simonwillison.net/2026/Jan/23/fastrender/#atom-entries) - Simon Willison
+- 23.01.2026 [This month at Tailscale for January 2026](https://tailscale.com/blog/january-26-product-update) - Tailscale
 - 22.01.2026 [Congratulations to the recipients of the...](https://engineering.atspotify.com/2026/1/congratulations-to-the-recipients-of-the-2025-spotify-foss-fund/) - Spotify
 - 22.01.2026 [Tailscale + BlueBubbles puts iMessage on...](https://tailscale.com/blog/bluebubbles-tailscale-imessage-android-pc-no-port-forwarding) - Tailscale
 - 22.01.2026 [Fragments: January 22](https://martinfowler.com/fragments/2026-01-22.html) - Martin Fowler
@@ -29,12 +31,10 @@ This page is automatically updated every night with the latest posts from blogs 
 - 07.01.2026 [The grief when AI writes most of the cod...](https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/) - Gergely Orosz
 - 07.01.2026 [Why We Use Separate Tech Stacks for Pers...](https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation/) - Spotify
 - 07.01.2026 [Promoting AI agents](https://world.hey.com/dhh/promoting-ai-agents-3ee04945) - DHH
-- 01.01.2026 [Introducing gisthost.github.io](https://simonwillison.net/2026/Jan/1/gisthost/#atom-entries) - Simon Willison
 - 01.01.2026 [Towards Generalizable and Efficient Larg...](https://netflixtechblog.com/towards-generalizable-and-efficient-large-scale-generative-recommenders-a7db648aa257?source=rss-c3aeaf49d8a4------2) - Netflix
 - 01.01.2026 [Summary of reading: October - December 2...](https://eli.thegreenplace.net/2025/summary-of-reading-october-december-2025/) - Eli Bendersky
 - 23.12.2025 [2025](/2025/) - Sam Rose
 - 22.12.2025 [The best of Product for Engineers in 202...](https://newsletter.posthog.com/p/the-best-of-product-for-engineers) - PostHog
-- 19.12.2025 [This month at Tailscale for December 202...](https://tailscale.com/blog/december-25-product-update) - Tailscale
 - 18.12.2025 [The Pulse: Cloudflare’s latest outage ...](https://blog.pragmaticengineer.com/the-pulse-cloudflares-latest-outage/) - Gergely Orosz
 - 18.12.2025 [Plugins case study: mdBook preprocessors](https://eli.thegreenplace.net/2025/plugins-case-study-mdbook-preprocessors/) - Eli Bendersky
 - 16.12.2025 [The O'Saasy License](https://world.hey.com/dhh/the-o-saasy-license-336c5c8f) - DHH
