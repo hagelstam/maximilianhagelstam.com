@@ -27,7 +27,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 08.01.2026 [My favorite musical discoveries of 2025](https://martinfowler.com/articles/2025-music.html) - Martin Fowler
 - 08.01.2026 [Fragments: January  8](https://martinfowler.com/fragments/2026-01-08.html) - Martin Fowler
 - 08.01.2026 [Mendix Cloud Private Connectivity powere...](https://tailscale.com/blog/mendix-cloud-private-connectivity-beta) - Tailscale
-- 08.01.2026 [A data model for Git (and other docs upd...](https://jvns.ca/blog/2026/01/08/a-data-model-for-git/) - Julia Evans
 - 07.01.2026 [The grief when AI writes most of the cod...](https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/) - Gergely Orosz
 - 07.01.2026 [Why We Use Separate Tech Stacks for Pers...](https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation/) - Spotify
 - 07.01.2026 [Promoting AI agents](https://world.hey.com/dhh/promoting-ai-agents-3ee04945) - DHH
@@ -59,7 +58,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 13.11.2025 [Shuffle: Making Random Feel More Human](https://engineering.atspotify.com/2025/11/shuffle-making-random-feel-more-human/) - Spotify
 - 11.11.2025 [Collaboration sucks](https://newsletter.posthog.com/p/collaboration-sucks) - PostHog
 - 11.10.2025 [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing) - Mitchell Hashimoto
-- 10.10.2025 [Notes on switching to Helix from vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/) - Julia Evans
 - 04.10.2025 [Sora update #1](https://blog.samaltman.com/sora-update-number-1) - Sam Altman
 - 03.10.2025 [Zig Builds Are Getting Faster](https://mitchellh.com/writing/zig-builds-getting-faster) - Mitchell Hashimoto
 - 30.09.2025 [Sora 2](https://blog.samaltman.com/sora-2) - Sam Altman
@@ -69,11 +67,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 23.08.2025 [Big O](/big-o/) - Sam Rose
 - 18.08.2025 [I Bought An N100 Mini PC, Then Another](https://blog.alexellis.io/n100-mini-computer/) - Alex Ellis
 - 15.08.2025 [The 90s UNIX Utility That Fell Out of Fa...](https://blog.alexellis.io/the-90s-unix-command-fell-out-of-favour/) - Alex Ellis
-- 26.06.2025 [New zine: The Secret Rules of the Termin...](https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/) - Julia Evans
 - 10.06.2025 [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity) - Sam Altman
-- 10.06.2025 [Using `make` to compile C programs (for ...](https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/) - Julia Evans
 - 07.05.2025 [Reservoir Sampling](/reservoir-sampling/) - Sam Rose
-- 07.03.2025 [Standards for ANSI escape codes](https://jvns.ca/blog/2025/03/07/escape-code-standards/) - Julia Evans
 - 12.02.2025 [How to run Firecracker without KVM on cl...](https://blog.alexellis.io/how-to-run-firecracker-without-kvm-on-regular-cloud-vms/) - Alex Ellis
 - 20.12.2024 [Turing Machines](/turing-machines/) - Sam Rose
 - 27.09.2024 [It's hard to write code for computers, b...](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html) - Erik Bernhardsson
