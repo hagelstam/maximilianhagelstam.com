@@ -7,29 +7,21 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 27.01.2026 [Assessing internal quality while coding ...](https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html) - Martin Fowler
 - 26.01.2026 [10x job posts for 10x engineers](https://newsletter.posthog.com/p/10x-job-posts-for-10x-engineers) - PostHog
 - 26.01.2026 [ChatGPT Containers can now run bash, pip...](https://simonwillison.net/2026/Jan/26/chatgpt-containers/#atom-entries) - Simon Willison
 - 26.01.2026 [The AI Evolution of Graph Search at Netf...](https://netflixtechblog.com/the-ai-evolution-of-graph-search-at-netflix-d416ec5b1151?source=rss-c3aeaf49d8a4------2) - Netflix
-- 26.01.2026 [How Tailscale Peer Relays saved my holid...](https://tailscale.com/blog/peer-relays-international-networks) - Tailscale
 - 23.01.2026 [Wilson Lin on FastRender: a browser buil...](https://simonwillison.net/2026/Jan/23/fastrender/#atom-entries) - Simon Willison
-- 23.01.2026 [This month at Tailscale for January 2026](https://tailscale.com/blog/january-26-product-update) - Tailscale
 - 22.01.2026 [Congratulations to the recipients of the...](https://engineering.atspotify.com/2026/1/congratulations-to-the-recipients-of-the-2025-spotify-foss-fund/) - Spotify
-- 22.01.2026 [Tailscale + BlueBubbles puts iMessage on...](https://tailscale.com/blog/bluebubbles-tailscale-imessage-android-pc-no-port-forwarding) - Tailscale
 - 22.01.2026 [Fragments: January 22](https://martinfowler.com/fragments/2026-01-22.html) - Martin Fowler
-- 21.01.2026 [Hypergrowth isn't always easy](https://tailscale.com/blog/hypergrowth-isnt-always-easy) - Tailscale
 - 21.01.2026 [Conversation: LLMs and the what/how loop](https://martinfowler.com/articles/convo-what-how.html) - Martin Fowler
-- 21.01.2026 [Don't Trip[wire] Yourself: Testing Error...](https://mitchellh.com/writing/tripwire) - Mitchell Hashimoto
 - 17.01.2026 [Compiling Scheme to WebAssembly](https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/) - Eli Bendersky
-- 15.01.2026 [Tailscale the Terraform way](https://tailscale.com/blog/open-source-terraform-module) - Tailscale
 - 13.01.2026 [Stop Picking Sides: Manage the Tension B...](https://martinfowler.com/articles/stop-picking-sides.html) - Martin Fowler
 - 12.01.2026 [First impressions of Claude Cowork, Anth...](https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-entries) - Simon Willison
 - 12.01.2026 [How I actually get good advice](https://newsletter.posthog.com/p/how-i-actually-get-good-advice) - PostHog
 - 11.01.2026 [My answers to the questions I posed abou...](https://simonwillison.net/2026/Jan/11/answers/#atom-entries) - Simon Willison
-- 10.01.2026 [Finding and Fixing Ghostty's Largest Mem...](https://mitchellh.com/writing/ghostty-memory-leak-fix) - Mitchell Hashimoto
 - 09.01.2026 [Fly's new Sprites.dev addresses both dev...](https://simonwillison.net/2026/Jan/9/sprites-dev/#atom-entries) - Simon Willison
 - 08.01.2026 [My favorite musical discoveries of 2025](https://martinfowler.com/articles/2025-music.html) - Martin Fowler
-- 08.01.2026 [Fragments: January  8](https://martinfowler.com/fragments/2026-01-08.html) - Martin Fowler
-- 08.01.2026 [A data model for Git (and other docs upd...](https://jvns.ca/blog/2026/01/08/a-data-model-for-git/) - Julia Evans
 - 07.01.2026 [The grief when AI writes most of the cod...](https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/) - Gergely Orosz
 - 07.01.2026 [Why We Use Separate Tech Stacks for Pers...](https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation/) - Spotify
 - 07.01.2026 [Promoting AI agents](https://world.hey.com/dhh/promoting-ai-agents-3ee04945) - DHH
@@ -49,7 +41,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 09.12.2025 [Europe is weak and delusional (but not d...](https://world.hey.com/dhh/europe-is-weak-and-delusional-but-not-doomed-8b10e7cb) - DHH
 - 05.12.2025 [Downdetector and the real cost of no ups...](https://blog.pragmaticengineer.com/downdetector-and-the-real-cost-of-no-upstream-dependencies/) - Gergely Orosz
 - 03.12.2025 [Fizzy is our fun, modern take on Kanban ...](https://world.hey.com/dhh/fizzy-is-our-fun-modern-take-on-kanban-and-we-made-it-open-source-54ac41b6) - DHH
-- 03.12.2025 [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit) - Mitchell Hashimoto
 - 01.12.2025 [AV1 — Now Powering 30% of Netflix ...](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80?source=rss-c3aeaf49d8a4------2) - Netflix
 - 01.12.2025 [Six billion reasons to cheer for Shopify](https://world.hey.com/dhh/six-billion-reasons-to-cheer-for-shopify-55720846) - DHH
 - 25.11.2025 [How startups lose their edge](https://newsletter.posthog.com/p/how-startups-lose-their-edge) - PostHog
@@ -58,10 +49,7 @@ This page is automatically updated every night with the latest posts from blogs 
 - 21.11.2025 [A startup in Mongolia translated my book](https://blog.pragmaticengineer.com/traveling-to-mongolia/) - Gergely Orosz
 - 18.11.2025 [I wrote a replacement for GitHub's code ...](https://blog.alexellis.io/ai-code-review-bot/) - Alex Ellis
 - 13.11.2025 [Shuffle: Making Random Feel More Human](https://engineering.atspotify.com/2025/11/shuffle-making-random-feel-more-human/) - Spotify
-- 11.10.2025 [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing) - Mitchell Hashimoto
-- 10.10.2025 [Notes on switching to Helix from vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/) - Julia Evans
 - 04.10.2025 [Sora update #1](https://blog.samaltman.com/sora-update-number-1) - Sam Altman
-- 03.10.2025 [Zig Builds Are Getting Faster](https://mitchellh.com/writing/zig-builds-getting-faster) - Mitchell Hashimoto
 - 30.09.2025 [Sora 2](https://blog.samaltman.com/sora-2) - Sam Altman
 - 23.09.2025 [Abundant Intelligence](https://blog.samaltman.com/abundant-intelligence) - Sam Altman
 - 09.09.2025 [Jakub and Szymon](https://blog.samaltman.com/jakub-and-szymon) - Sam Altman
@@ -69,11 +57,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 23.08.2025 [Big O](/big-o/) - Sam Rose
 - 18.08.2025 [I Bought An N100 Mini PC, Then Another](https://blog.alexellis.io/n100-mini-computer/) - Alex Ellis
 - 15.08.2025 [The 90s UNIX Utility That Fell Out of Fa...](https://blog.alexellis.io/the-90s-unix-command-fell-out-of-favour/) - Alex Ellis
-- 26.06.2025 [New zine: The Secret Rules of the Termin...](https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/) - Julia Evans
 - 10.06.2025 [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity) - Sam Altman
-- 10.06.2025 [Using `make` to compile C programs (for ...](https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/) - Julia Evans
 - 07.05.2025 [Reservoir Sampling](/reservoir-sampling/) - Sam Rose
-- 07.03.2025 [Standards for ANSI escape codes](https://jvns.ca/blog/2025/03/07/escape-code-standards/) - Julia Evans
 - 12.02.2025 [How to run Firecracker without KVM on cl...](https://blog.alexellis.io/how-to-run-firecracker-without-kvm-on-regular-cloud-vms/) - Alex Ellis
 - 20.12.2024 [Turing Machines](/turing-machines/) - Sam Rose
 - 27.09.2024 [It's hard to write code for computers, b...](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html) - Erik Bernhardsson
