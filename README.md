@@ -1,3 +1,3 @@
-# maximilianhagelstam.com
+# Site
 
-Personal website.
+My personal website.
