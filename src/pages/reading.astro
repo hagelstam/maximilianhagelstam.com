@@ -1,6 +1,7 @@
 ---
+import Icon from '../components/icons.astro'
+import Sidebar from '../components/Sidebar.astro'
 import Layout from '../layouts/Layout.astro'
-import Link from '../components/Link.astro'
 import fs from 'fs'
 import path from 'path'
 
@@ -30,43 +31,71 @@ try {
 } catch (error) {
   console.error('error parsing reading list:', error)
 }
+
+const formatDate = (dateStr: string) => {
+  const [day, month, year] = dateStr.split('.')
+  const date = new Date(Number(year), Number(month) - 1, Number(day))
+  const monthName = date.toLocaleDateString('en-UK', { month: 'short' })
+  return `${day} ${monthName} ${year}`
+}
 ---
 
-<Layout>
-  <article class="space-y-6 text-lg leading-relaxed">
-    <h1 class="heading">Reading list</h1>
+<Layout
+  title="Reading | Maximilian Hagelstam"
+  description="My reading list - auto-generated from my favorite blogs."
+>
+  <Sidebar />
+  <main class="mt-6 flex min-w-0 flex-auto flex-col px-2 md:mt-0 md:px-0">
+    <section>
+      <h1 class="mb-8 font-serif text-3xl font-bold">Reading List</h1>
 
-    <p>
-      This page is auto-generated from a Github Actions workflow that runs every
-      night and fetches the 5 latest articles from my favorite blogs.
-    </p>
-
-    <p>
-      The list of blogs I follow can be found in the{' '}
-      <Link
-        href="https://github.com/hagelstam/maximilianhagelstam.com/blob/main/reading.go"
+      <div
+        class="prose prose-neutral dark:prose-invert mb-8 text-neutral-800 dark:text-neutral-200"
       >
-        source code
-      </Link>.
-    </p>
+        <p>
+          This page is auto-generated from a GitHub Actions workflow that runs
+          every night and fetches the 5 latest articles from my favorite blogs.
+        </p>
+      </div>
 
-    <div class="space-y-2">
-      {
-        articles.map((article) => (
-          <div class="text-lg">
-            <span class="text-stone-400">{article.date}</span>{' '}
-            <a
-              href={article.link}
-              class="external-link"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              {article.title}
-            </a>{' '}
-            <span class="text-stone-400">- {article.blogName}</span>
-          </div>
-        ))
-      }
-    </div>
-  </article>
+      <div class="space-y-6">
+        {
+          articles.map((article) => (
+            <div class="flex items-baseline gap-8">
+              <time class="min-w-[100px] text-sm text-neutral-500 dark:text-neutral-400">
+                {formatDate(article.date)}
+              </time>
+              <div>
+                <a
+                  href={article.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="text-neutral-800 underline decoration-neutral-300 transition-all hover:text-neutral-600 hover:decoration-neutral-500 dark:text-neutral-200 dark:decoration-neutral-600 dark:hover:text-neutral-400"
+                >
+                  {article.title}
+                </a>
+                <span class="ml-2 text-neutral-500 dark:text-neutral-400">
+                  - {article.blogName}
+                </span>
+              </div>
+            </div>
+          ))
+        }
+      </div>
+
+      <div
+        class="mt-12 border-t border-neutral-200 pt-6 dark:border-neutral-800"
+      >
+        <a
+          href="https://github.com/hagelstam/maximilianhagelstam.com/blob/main/reading.go"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="inline-flex items-center text-neutral-600 transition-all hover:text-neutral-800 dark:text-neutral-400 dark:hover:text-neutral-200"
+        >
+          <Icon name="arrow" />
+          <span class="ml-1">view source code</span>
+        </a>
+      </div>
+    </section>
+  </main>
 </Layout>

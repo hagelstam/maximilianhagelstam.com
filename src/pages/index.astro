@@ -1,30 +1,50 @@
 ---
-import Link from '../components/Link.astro'
+import Icon from '../components/icons.astro'
+import Sidebar from '../components/Sidebar.astro'
 import Layout from '../layouts/Layout.astro'
 ---
 
-<Layout>
-  <article class="space-y-6 text-lg leading-relaxed">
-    <h1 class="heading">Maximilian Hagelstam</h1>
-    <p>Hello there! I'm Maximilian👋</p>
-    <p>
-      I'm a developer based in Finland. I enjoy reading, weightlifting, and
-      hiking. I currently work on developer experience at
-      <Link href="https://www.f-secure.com">F-Secure</Link> while studying Computer
-      Engineering at <Link
-        href="https://www.abo.fi/en/study-subject/computer-engineering/"
-        >Åbo Akademi</Link
-      >.
-    </p>
-    <p>
-      Previously, I worked on both product and infrastructure at <Link
-        href="https://www.smartum.fi">Smartum</Link
-      >.
-    </p>
-    <p>
-      I primarily work with AWS, Terraform, and TypeScript, and occasionally
-      with Python and Go. Topics that I find particularly intriguing include
-      developer experience (DX), distributed systems and open source.
-    </p>
-  </article>
+<Layout title="Maximilian Hagelstam">
+  <Sidebar />
+  <main class="mt-6 flex min-w-0 flex-auto flex-col px-2 md:mt-0 md:px-0">
+    <section>
+      <h1 class="font-serif text-3xl font-bold">Maximilian Hagelstam</h1>
+      <p class="my-5 max-w-[460px] text-neutral-800 dark:text-neutral-200">
+        Hey, I'm Maximilian.<br />Welcome to my website.
+      </p>
+      <div class="my-8 flex flex-col items-start md:flex-row md:items-center">
+        <img
+          alt="Maximilian Hagelstam"
+          class="rounded-full grayscale"
+          src="/avatar.jpg"
+          width="100"
+          height="100"
+        />
+      </div>
+
+      <div class="mt-8">
+        <h2 class="mb-6 text-neutral-800 dark:text-neutral-200">Find me on:</h2>
+        <div class="flex items-center gap-6">
+          <a
+            href="https://github.com/hagelstam"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-neutral-600 transition-all hover:text-neutral-800 dark:text-neutral-400 dark:hover:text-neutral-200"
+            title="GitHub"
+          >
+            <Icon name="github" class="h-6 w-6" />
+          </a>
+          <a
+            href="https://linkedin.com/in/maximilian-hagelstam"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-neutral-600 transition-all hover:text-neutral-800 dark:text-neutral-400 dark:hover:text-neutral-200"
+            title="LinkedIn"
+          >
+            <Icon name="linkedin" class="h-6 w-6" />
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
 </Layout>
