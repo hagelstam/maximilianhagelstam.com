@@ -25,14 +25,14 @@ if (pathname.endsWith('/') && pathname !== '/') {
               <a
                 href={path}
                 class:list={[
-                  'flex align-middle transition-all hover:text-neutral-800 dark:hover:text-neutral-200',
+                  'flex align-middle transition-all hover:text-neutral-200',
                   isActive ? 'font-bold' : 'text-neutral-500',
                 ]}
               >
                 <span
                   class:list={[
                     'relative px-[10px] py-[5px]',
-                    isActive && 'rounded-md bg-neutral-100 dark:bg-neutral-800',
+                    isActive && 'rounded-md bg-neutral-800',
                   ]}
                 >
                   {name}
