@@ -1,50 +1,48 @@
 ---
-import Icon from '../components/icons.astro'
-import Sidebar from '../components/Sidebar.astro'
+import { Image } from 'astro:assets'
+import Icon from '../components/Icons.astro'
 import Layout from '../layouts/Layout.astro'
+import { config } from '../config'
+import avatar from '../assets/avatar.jpg'
 ---
 
-<Layout title="Maximilian Hagelstam">
-  <Sidebar />
-  <main class="mt-6 flex min-w-0 flex-auto flex-col px-2 md:mt-0 md:px-0">
-    <section>
-      <h1 class="font-serif text-3xl font-bold">Maximilian Hagelstam</h1>
-      <p class="my-5 max-w-[460px] text-neutral-200">
-        Hey, I'm Maximilian.<br />Welcome to my website.
-      </p>
-      <div class="my-8 flex flex-col items-start md:flex-row md:items-center">
-        <img
-          alt="Maximilian Hagelstam"
-          class="rounded-full grayscale"
-          src="/avatar.jpg"
-          width="100"
-          height="100"
-        />
-      </div>
+<Layout title={config.site.title} header="Maximilian Hagelstam">
+  <p class="-mt-3 max-w-[460px] text-neutral-200">
+    Hey, I'm Maximilian👋<br />Welcome to my website.
+  </p>
+  <div class="my-8 flex flex-col items-start md:flex-row md:items-center">
+    <Image
+      src={avatar}
+      alt="Maximilian Hagelstam"
+      width={120}
+      height={120}
+      loading="eager"
+      decoding="async"
+      class="rounded-full grayscale"
+    />
+  </div>
 
-      <div class="mt-8">
-        <h2 class="mb-6 text-neutral-200">Find me on:</h2>
-        <div class="flex items-center gap-6">
-          <a
-            href="https://github.com/hagelstam"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="text-neutral-400 transition-all hover:text-neutral-200"
-            title="GitHub"
-          >
-            <Icon name="github" class="h-6 w-6" />
-          </a>
-          <a
-            href="https://linkedin.com/in/maximilian-hagelstam"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="text-neutral-400 transition-all hover:text-neutral-200"
-            title="LinkedIn"
-          >
-            <Icon name="linkedin" class="h-6 w-6" />
-          </a>
-        </div>
-      </div>
-    </section>
-  </main>
+  <div class="mt-8">
+    <h2 class="mb-4 text-neutral-200">Find me on:</h2>
+    <div class="flex items-center gap-6">
+      <a
+        href={config.social.github}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="text-neutral-400 transition-all hover:text-neutral-200"
+        title="GitHub"
+      >
+        <Icon name="github" class="h-6 w-6" />
+      </a>
+      <a
+        href={config.social.linkedin}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="text-neutral-400 transition-all hover:text-neutral-200"
+        title="LinkedIn"
+      >
+        <Icon name="linkedin" class="h-6 w-6" />
+      </a>
+    </div>
+  </div>
 </Layout>

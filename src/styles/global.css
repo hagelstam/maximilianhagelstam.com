@@ -20,60 +20,11 @@
 
 @layer components {
   .prose a {
-    @apply decoration-neutral-600 underline-offset-2 transition-all;
-  }
-
-  .prose hr {
-    @apply border-neutral-800;
-  }
-
-  .prose code {
-    @apply rounded-lg border border-neutral-800 bg-neutral-900 px-1 py-0.5 text-neutral-200;
-  }
-
-  .prose pre code {
-    @apply p-0 text-neutral-200;
-    border: initial;
-  }
-
-  .prose img {
-    @apply m-0;
+    @apply decoration-neutral-400! underline-offset-4 transition-all hover:text-neutral-400!;
   }
 
   .prose > :first-child {
     margin-top: 1.25em;
     margin-bottom: 1.25em;
   }
-
-  .prose pre {
-    @apply rounded-lg border border-neutral-800 bg-neutral-900 p-4;
-  }
-
-  .prose pre code {
-    background-color: transparent;
-  }
-}
-
-/* Remove Safari input shadow on mobile */
-input[type='text'],
-input[type='email'] {
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
-}
-
-table {
-  display: block;
-  max-width: fit-content;
-  overflow-x: auto;
-  white-space: nowrap;
-}
-
-pre::-webkit-scrollbar {
-  display: none;
-}
-
-pre {
-  -ms-overflow-style: none;
-  scrollbar-width: none;
 }
