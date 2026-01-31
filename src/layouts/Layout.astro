@@ -1,49 +1,98 @@
 ---
 import '../styles/global.css'
-import Header from '../components/Header.astro'
-import Footer from '../components/Footer.astro'
 
-const canonicalURL = new URL(Astro.url.pathname, Astro.site)
-const title = 'Maximilian Hagelstam'
-const description = "Maximilian Hagelstam's personal website."
+export interface Props {
+  title?: string
+  description?: string
+  image?: string
+  canonicalURL?: string
+}
+
+const {
+  title = 'Maximilian Hagelstam',
+  description = 'Developer based in Finland.',
+  image = '/og.jpg',
+  canonicalURL,
+} = Astro.props
+
+const url = canonicalURL || new URL(Astro.url.pathname, Astro.site)
 ---
 
-<html lang="en">
+<!doctype html>
+<html lang="en" class="bg-white text-black dark:bg-[#111010] dark:text-white">
   <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+    <meta charset="UTF-8" />
+    <meta name="description" content={description} />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <meta name="generator" content={Astro.generator} />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=STIX+Two+Text:ital,wght@0,400..700;1,400..700&display=swap"
-      rel="stylesheet"
-    />
+    <!-- Canonical URL -->
+    <link rel="canonical" href={url} />
 
+    <!-- Primary Meta Tags -->
     <title>{title}</title>
     <meta name="title" content={title} />
     <meta name="description" content={description} />
-    <link rel="canonical" href={canonicalURL} />
 
-    <meta name="author" content="Maximilian Hagelstam" />
-    <meta name="robots" content="index, follow" />
-    <meta name="theme-color" content="#1c1917" />
-
+    <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
-    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:url" content={Astro.url} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
+    <meta property="og:image" content={image} />
     <meta property="og:site_name" content="Maximilian Hagelstam" />
+    <meta property="og:locale" content="en-FI" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content={Astro.url} />
+    <meta property="twitter:title" content={title} />
+    <meta property="twitter:description" content={description} />
+    <meta property="twitter:image" content={image} />
+
+    <!-- Robots -->
+    <meta name="robots" content="index, follow" />
+    <meta
+      name="googlebot"
+      content="index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+    />
+
+    <!-- Fonts -->
+    <link
+      rel="preload"
+      href="/fonts/kaisei-tokumin-latin-700-normal.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href="/fonts/kaisei-tokumin-latin-400-normal.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <style>
+      @font-face {
+        font-family: 'Kaisei Tokumin';
+        src: url('/fonts/kaisei-tokumin-latin-700-normal.woff2') format('woff2');
+        font-weight: 700;
+        font-style: normal;
+        font-display: swap;
+      }
+      @font-face {
+        font-family: 'Kaisei Tokumin';
+        src: url('/fonts/kaisei-tokumin-latin-400-normal.woff2') format('woff2');
+        font-weight: 400;
+        font-style: normal;
+        font-display: swap;
+      }
+    </style>
   </head>
   <body
-    class="font-sitx no-scrollbar overflow-y-scroll bg-stone-900 text-stone-100 antialiased"
+    class="mx-4 mt-8 mb-40 flex max-w-4xl flex-col antialiased md:mt-20 md:flex-row lg:mx-auto lg:mt-32"
   >
-    <Header />
-    <main class="container-base py-16">
-      <slot />
-    </main>
-    <Footer />
+    <slot />
   </body>
 </html>
