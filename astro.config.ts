@@ -10,6 +10,7 @@ export default defineConfig({
   trailingSlash: 'never',
   adapter: vercel({
     webAnalytics: { enabled: true },
+    imageService: true,
   }),
   integrations: [
     sitemap({
