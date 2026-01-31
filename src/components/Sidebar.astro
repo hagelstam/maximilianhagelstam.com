@@ -2,6 +2,7 @@
 const navItems = {
   '/': { name: 'home' },
   '/about': { name: 'about' },
+  '/blog': { name: 'blog' },
   '/reading': { name: 'reading' },
 }
 
@@ -11,7 +12,7 @@ if (pathname.endsWith('/') && pathname !== '/') {
 }
 ---
 
-<aside class="-mx-4 font-serif md:mx-0 md:w-[150px] md:flex-shrink-0 md:px-0">
+<aside class="-mx-4 font-serif md:mx-0 md:w-[150px] md:shrink-0 md:px-0">
   <div class="lg:sticky lg:top-20">
     <nav
       class="fade relative flex scroll-pr-6 flex-row items-start px-4 pb-0 md:relative md:flex-col md:overflow-auto md:px-0"
@@ -26,7 +27,7 @@ if (pathname.endsWith('/') && pathname !== '/') {
                 href={path}
                 class:list={[
                   'flex align-middle transition-all hover:text-neutral-200',
-                  isActive ? 'font-bold' : 'text-neutral-500',
+                  isActive ? 'font-bold' : 'text-neutral-400',
                 ]}
               >
                 <span

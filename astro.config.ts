@@ -7,11 +7,22 @@ import sitemap from '@astrojs/sitemap'
 export default defineConfig({
   site: 'https://maximilianhagelstam.com',
   output: 'static',
+  trailingSlash: 'never',
   adapter: vercel({
     webAnalytics: { enabled: true },
   }),
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      changefreq: 'weekly',
+      priority: 0.7,
+      lastmod: new Date(),
+    }),
+  ],
   vite: {
     plugins: [tailwindcss()],
+  },
+  compressHTML: true,
+  build: {
+    inlineStylesheets: 'auto',
   },
 })

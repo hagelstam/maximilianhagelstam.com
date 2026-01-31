@@ -1,7 +1,7 @@
 ---
-import Icon from '../components/icons.astro'
-import Sidebar from '../components/Sidebar.astro'
+import Icon from '../components/Icons.astro'
 import Layout from '../layouts/Layout.astro'
+import { config } from '../config'
 import fs from 'fs'
 import path from 'path'
 
@@ -40,56 +40,46 @@ const formatDate = (dateStr: string) => {
 }
 ---
 
-<Layout
-  title="Reading | Maximilian Hagelstam"
-  description="My reading list - auto-generated from my favorite blogs."
->
-  <Sidebar />
-  <main class="mt-6 flex min-w-0 flex-auto flex-col px-2 md:mt-0 md:px-0">
-    <section>
-      <h1 class="mb-8 font-serif text-3xl font-bold">Reading List</h1>
+<Layout title={`Reading list | ${config.site.title}`} header="Reading list">
+  <div class="prose prose-neutral prose-invert -mt-3 text-neutral-200">
+    <p>
+      This page is auto-generated from a GitHub Actions workflow that runs every
+      night and fetches the 5 latest articles from my favorite blogs.
+    </p>
+  </div>
 
-      <div class="prose prose-neutral prose-invert mb-8 text-neutral-200">
-        <p>
-          This page is auto-generated from a GitHub Actions workflow that runs
-          every night and fetches the 5 latest articles from my favorite blogs.
-        </p>
-      </div>
+  <div class="mt-8 space-y-6">
+    {
+      articles.map((article) => (
+        <div class="flex items-baseline gap-8">
+          <time class="min-w-[100px] text-sm text-neutral-400">
+            {formatDate(article.date)}
+          </time>
+          <div>
+            <a
+              href={article.link}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="text-neutral-200 transition-all hover:text-neutral-400"
+            >
+              {article.title}
+            </a>
+            <span class="ml-2 text-neutral-400">- {article.blogName}</span>
+          </div>
+        </div>
+      ))
+    }
+  </div>
 
-      <div class="space-y-6">
-        {
-          articles.map((article) => (
-            <div class="flex items-baseline gap-8">
-              <time class="min-w-[100px] text-sm text-neutral-400">
-                {formatDate(article.date)}
-              </time>
-              <div>
-                <a
-                  href={article.link}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="text-neutral-200 underline decoration-neutral-600 transition-all hover:text-neutral-400"
-                >
-                  {article.title}
-                </a>
-                <span class="ml-2 text-neutral-400">- {article.blogName}</span>
-              </div>
-            </div>
-          ))
-        }
-      </div>
-
-      <div class="mt-12 border-t border-neutral-800 pt-6">
-        <a
-          href="https://github.com/hagelstam/maximilianhagelstam.com/blob/main/reading.go"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="inline-flex items-center text-neutral-400 transition-all hover:text-neutral-200"
-        >
-          <Icon name="arrow" />
-          <span class="ml-1">view source code</span>
-        </a>
-      </div>
-    </section>
-  </main>
+  <div class="mt-12 border-t border-neutral-800 pt-6">
+    <a
+      href="https://github.com/hagelstam/maximilianhagelstam.com/blob/main/reading.go"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="inline-flex items-center text-neutral-400 transition-all hover:text-neutral-200"
+    >
+      <Icon name="arrow" />
+      <span class="ml-1">view source code</span>
+    </a>
+  </div>
 </Layout>

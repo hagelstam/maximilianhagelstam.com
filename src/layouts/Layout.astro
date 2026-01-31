@@ -1,61 +1,133 @@
 ---
 import '../styles/global.css'
+import { config } from '../config'
+import Sidebar from '../components/Sidebar.astro'
 
 export interface Props {
   title?: string
   description?: string
   image?: string
   canonicalURL?: string
+  type?: 'website' | 'article'
+  header: string
 }
 
 const {
-  title = 'Maximilian Hagelstam',
-  description = 'Developer based in Finland.',
-  image = '/og.jpg',
+  title = config.site.title,
+  description = config.site.description,
+  image = config.site.image,
   canonicalURL,
+  type = 'website',
+  header,
 } = Astro.props
 
-const url = canonicalURL || new URL(Astro.url.pathname, Astro.site)
+const canonicalUrl = canonicalURL || new URL(Astro.url.pathname, Astro.site)
+const ogImageUrl = new URL(image, Astro.site)
+
+// Structured data
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      '@id': `${config.site.url}/#website`,
+      url: config.site.url,
+      name: config.site.name,
+      description: config.site.description,
+      publisher: { '@id': `${config.site.url}/#person` },
+      inLanguage: config.site.locale,
+    },
+    {
+      '@type': 'Person',
+      '@id': `${config.site.url}/#person`,
+      name: config.site.name,
+      url: config.site.url,
+      image: ogImageUrl.toString(),
+      sameAs: [config.social.github, config.social.linkedin],
+      jobTitle: 'Platform Engineer',
+      worksFor: {
+        '@type': 'Organization',
+        name: 'F-Secure',
+        url: 'https://www.f-secure.com/en',
+      },
+      alumniOf: {
+        '@type': 'CollegeOrUniversity',
+        name: 'Åbo Akademi',
+        url: 'https://www.abo.fi',
+      },
+    },
+    {
+      '@type': 'WebPage',
+      '@id': canonicalUrl.toString(),
+      url: canonicalUrl.toString(),
+      name: title,
+      description: description,
+      isPartOf: { '@id': `${config.site.url}/#website` },
+      about: { '@id': `${config.site.url}/#person` },
+      inLanguage: config.site.locale,
+    },
+  ],
+}
 ---
 
 <!doctype html>
 <html lang="en" class="bg-[#111010] text-white">
   <head>
     <meta charset="UTF-8" />
-    <meta name="description" content={description} />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <meta name="generator" content={Astro.generator} />
 
-    <!-- Canonical URL -->
-    <link rel="canonical" href={url} />
-
-    <!-- Primary Meta Tags -->
+    <!-- Meta -->
     <title>{title}</title>
     <meta name="title" content={title} />
     <meta name="description" content={description} />
+    <meta name="author" content={config.site.author} />
+    <link rel="canonical" href={canonicalUrl} />
 
-    <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content={Astro.url} />
+    <!-- Open graph -->
+    <meta property="og:type" content={type} />
+    <meta property="og:url" content={canonicalUrl} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:image" content={image} />
-    <meta property="og:site_name" content="Maximilian Hagelstam" />
-    <meta property="og:locale" content="en-FI" />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="800" />
+    <meta
+      property="og:image:alt"
+      content={`${config.site.name} - ${description}`}
+    />
+    <meta property="og:site_name" content={config.site.name} />
+    <meta property="og:locale" content={config.site.locale} />
 
     <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content={Astro.url} />
-    <meta property="twitter:title" content={title} />
-    <meta property="twitter:description" content={description} />
-    <meta property="twitter:image" content={image} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content={canonicalUrl} />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageUrl} />
+    <meta
+      name="twitter:image:alt"
+      content={`${config.site.name} - ${description}`}
+    />
 
     <!-- Robots -->
     <meta name="robots" content="index, follow" />
     <meta
       name="googlebot"
       content="index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+    />
+    <meta name="bingbot" content="index, follow" />
+
+    <!-- Theme -->
+    <meta name="theme-color" content={config.site.themeColor} />
+    <meta name="msapplication-TileColor" content={config.site.themeColor} />
+
+    <!-- Structured data -->
+    <script
+      is:inline
+      type="application/ld+json"
+      set:html={JSON.stringify(jsonLd)}
     />
 
     <!-- Fonts -->
@@ -93,6 +165,12 @@ const url = canonicalURL || new URL(Astro.url.pathname, Astro.site)
   <body
     class="mx-4 mt-8 mb-40 flex max-w-4xl flex-col antialiased md:mt-20 md:flex-row lg:mx-auto lg:mt-32"
   >
-    <slot />
+    <Sidebar />
+    <main class="mt-6 flex min-w-0 flex-auto flex-col px-2 md:mt-0 md:px-0">
+      <section>
+        <h1 class="mb-8 font-serif text-3xl font-bold">{header}</h1>
+        <slot />
+      </section>
+    </main>
   </body>
 </html>
