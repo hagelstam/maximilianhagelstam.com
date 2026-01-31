@@ -7,11 +7,14 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 31.01.2026 [Data Bridge: How Netflix simplifies data...](https://netflixtechblog.com/data-bridge-how-netflix-simplifies-data-movement-36d10d91c313?source=rss-c3aeaf49d8a4------2) - Netflix
+- 30.01.2026 [Moltbook is the most interesting place o...](https://simonwillison.net/2026/Jan/30/moltbook/#atom-entries) - Simon Willison
 - 29.01.2026 [I replaced a $120/year micro-SaaS in 20 ...](https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/) - Gergely Orosz
 - 28.01.2026 [Adding dynamic features to an aggressive...](https://simonwillison.net/2026/Jan/28/dynamic-features-static-site/#atom-entries) - Simon Willison
 - 28.01.2026 [Bliki: Excessive Bold](https://martinfowler.com/bliki/ExcessiveBold.html) - Martin Fowler
 - 27.01.2026 [Assessing internal quality while coding ...](https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html) - Martin Fowler
 - 27.01.2026 [A first look at Aperture by Tailscale (p...](https://tailscale.com/blog/aperture-private-alpha) - Tailscale
+- 27.01.2026 [Some notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/) - Julia Evans
 - 26.01.2026 [10x job posts for 10x engineers](https://newsletter.posthog.com/p/10x-job-posts-for-10x-engineers) - PostHog
 - 26.01.2026 [ChatGPT Containers can now run bash, pip...](https://simonwillison.net/2026/Jan/26/chatgpt-containers/#atom-entries) - Simon Willison
 - 26.01.2026 [The AI Evolution of Graph Search at Netf...](https://netflixtechblog.com/the-ai-evolution-of-graph-search-at-netflix-d416ec5b1151?source=rss-c3aeaf49d8a4------2) - Netflix
@@ -28,8 +31,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 13.01.2026 [Stop Picking Sides: Manage the Tension B...](https://martinfowler.com/articles/stop-picking-sides.html) - Martin Fowler
 - 12.01.2026 [First impressions of Claude Cowork, Anth...](https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-entries) - Simon Willison
 - 12.01.2026 [How I actually get good advice](https://newsletter.posthog.com/p/how-i-actually-get-good-advice) - PostHog
-- 11.01.2026 [My answers to the questions I posed abou...](https://simonwillison.net/2026/Jan/11/answers/#atom-entries) - Simon Willison
 - 10.01.2026 [Finding and Fixing Ghostty's Largest Mem...](https://mitchellh.com/writing/ghostty-memory-leak-fix) - Mitchell Hashimoto
+- 08.01.2026 [A data model for Git (and other docs upd...](https://jvns.ca/blog/2026/01/08/a-data-model-for-git/) - Julia Evans
 - 07.01.2026 [The grief when AI writes most of the cod...](https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/) - Gergely Orosz
 - 07.01.2026 [Why We Use Separate Tech Stacks for Pers...](https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation/) - Spotify
 - 07.01.2026 [Promoting AI agents](https://world.hey.com/dhh/promoting-ai-agents-3ee04945) - DHH
@@ -50,7 +53,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 05.12.2025 [Downdetector and the real cost of no ups...](https://blog.pragmaticengineer.com/downdetector-and-the-real-cost-of-no-upstream-dependencies/) - Gergely Orosz
 - 03.12.2025 [Fizzy is our fun, modern take on Kanban ...](https://world.hey.com/dhh/fizzy-is-our-fun-modern-take-on-kanban-and-we-made-it-open-source-54ac41b6) - DHH
 - 03.12.2025 [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit) - Mitchell Hashimoto
-- 01.12.2025 [AV1 — Now Powering 30% of Netflix ...](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80?source=rss-c3aeaf49d8a4------2) - Netflix
 - 01.12.2025 [Six billion reasons to cheer for Shopify](https://world.hey.com/dhh/six-billion-reasons-to-cheer-for-shopify-55720846) - DHH
 - 25.11.2025 [How startups lose their edge](https://newsletter.posthog.com/p/how-startups-lose-their-edge) - PostHog
 - 25.11.2025 [Notes on the WASM Basic C ABI](https://eli.thegreenplace.net/2025/notes-on-the-wasm-basic-c-abi/) - Eli Bendersky
@@ -58,6 +60,7 @@ This page is automatically updated every night with the latest posts from blogs 
 - 18.11.2025 [I wrote a replacement for GitHub's code ...](https://blog.alexellis.io/ai-code-review-bot/) - Alex Ellis
 - 13.11.2025 [Shuffle: Making Random Feel More Human](https://engineering.atspotify.com/2025/11/shuffle-making-random-feel-more-human/) - Spotify
 - 11.10.2025 [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing) - Mitchell Hashimoto
+- 10.10.2025 [Notes on switching to Helix from vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/) - Julia Evans
 - 04.10.2025 [Sora update #1](https://blog.samaltman.com/sora-update-number-1) - Sam Altman
 - 03.10.2025 [Zig Builds Are Getting Faster](https://mitchellh.com/writing/zig-builds-getting-faster) - Mitchell Hashimoto
 - 30.09.2025 [Sora 2](https://blog.samaltman.com/sora-2) - Sam Altman
@@ -67,7 +70,9 @@ This page is automatically updated every night with the latest posts from blogs 
 - 23.08.2025 [Big O](/big-o/) - Sam Rose
 - 18.08.2025 [I Bought An N100 Mini PC, Then Another](https://blog.alexellis.io/n100-mini-computer/) - Alex Ellis
 - 15.08.2025 [The 90s UNIX Utility That Fell Out of Fa...](https://blog.alexellis.io/the-90s-unix-command-fell-out-of-favour/) - Alex Ellis
+- 26.06.2025 [New zine: The Secret Rules of the Termin...](https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/) - Julia Evans
 - 10.06.2025 [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity) - Sam Altman
+- 10.06.2025 [Using `make` to compile C programs (for ...](https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/) - Julia Evans
 - 07.05.2025 [Reservoir Sampling](/reservoir-sampling/) - Sam Rose
 - 12.02.2025 [How to run Firecracker without KVM on cl...](https://blog.alexellis.io/how-to-run-firecracker-without-kvm-on-regular-cloud-vms/) - Alex Ellis
 - 20.12.2024 [Turing Machines](/turing-machines/) - Sam Rose
