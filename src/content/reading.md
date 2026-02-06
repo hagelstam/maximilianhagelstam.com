@@ -7,7 +7,10 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 05.02.2026 [Context Engineering for Coding Agents](https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html) - Martin Fowler
+- 05.02.2026 [Clankers with claws](https://world.hey.com/dhh/clankers-with-claws-9f86fa71) - DHH
 - 05.02.2026 [Rewriting pycparser with the help of an ...](https://eli.thegreenplace.net/2026/rewriting-pycparser-with-the-help-of-an-llm/) - Eli Bendersky
+- 05.02.2026 [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) - Mitchell Hashimoto
 - 04.02.2026 [Fragments: February  4](https://martinfowler.com/fragments/2026-02-04.html) - Martin Fowler
 - 04.02.2026 [Distributing Go binaries like sqlite-sca...](https://simonwillison.net/2026/Feb/4/distributing-go-binaries/#atom-entries) - Simon Willison
 - 03.02.2026 [Staying secure and simple in a complex w...](https://tailscale.com/blog/welcome-ross-kukulinski) - Tailscale
@@ -29,7 +32,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 22.01.2026 [Congratulations to the recipients of the...](https://engineering.atspotify.com/2026/1/congratulations-to-the-recipients-of-the-2025-spotify-foss-fund/) - Spotify
 - 22.01.2026 [Tailscale + BlueBubbles puts iMessage on...](https://tailscale.com/blog/bluebubbles-tailscale-imessage-android-pc-no-port-forwarding) - Tailscale
 - 22.01.2026 [Fragments: January 22](https://martinfowler.com/fragments/2026-01-22.html) - Martin Fowler
-- 21.01.2026 [Conversation: LLMs and the what/how loop](https://martinfowler.com/articles/convo-what-how.html) - Martin Fowler
 - 21.01.2026 [Don't Trip[wire] Yourself: Testing Error...](https://mitchellh.com/writing/tripwire) - Mitchell Hashimoto
 - 17.01.2026 [Compiling Scheme to WebAssembly](https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/) - Eli Bendersky
 - 12.01.2026 [How I actually get good advice](https://newsletter.posthog.com/p/how-i-actually-get-good-advice) - PostHog
@@ -53,7 +55,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 09.12.2025 [Background Coding Agents: Predictable Re...](https://engineering.atspotify.com/2025/12/feedback-loops-background-coding-agents-part-3/) - Spotify
 - 09.12.2025 [Europe is weak and delusional (but not d...](https://world.hey.com/dhh/europe-is-weak-and-delusional-but-not-doomed-8b10e7cb) - DHH
 - 05.12.2025 [Downdetector and the real cost of no ups...](https://blog.pragmaticengineer.com/downdetector-and-the-real-cost-of-no-upstream-dependencies/) - Gergely Orosz
-- 03.12.2025 [Fizzy is our fun, modern take on Kanban ...](https://world.hey.com/dhh/fizzy-is-our-fun-modern-take-on-kanban-and-we-made-it-open-source-54ac41b6) - DHH
 - 03.12.2025 [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit) - Mitchell Hashimoto
 - 25.11.2025 [How startups lose their edge](https://newsletter.posthog.com/p/how-startups-lose-their-edge) - PostHog
 - 24.11.2025 [Background Coding Agents: Context Engine...](https://engineering.atspotify.com/2025/11/context-engineering-background-coding-agents-part-2/) - Spotify
@@ -62,7 +63,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 11.10.2025 [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing) - Mitchell Hashimoto
 - 10.10.2025 [Notes on switching to Helix from vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/) - Julia Evans
 - 04.10.2025 [Sora update #1](https://blog.samaltman.com/sora-update-number-1) - Sam Altman
-- 03.10.2025 [Zig Builds Are Getting Faster](https://mitchellh.com/writing/zig-builds-getting-faster) - Mitchell Hashimoto
 - 30.09.2025 [Sora 2](https://blog.samaltman.com/sora-2) - Sam Altman
 - 23.09.2025 [Abundant Intelligence](https://blog.samaltman.com/abundant-intelligence) - Sam Altman
 - 09.09.2025 [Jakub and Szymon](https://blog.samaltman.com/jakub-and-szymon) - Sam Altman
