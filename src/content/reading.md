@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 07.02.2026 [How StrongDM's AI team build serious sof...](https://simonwillison.net/2026/Feb/7/software-factory/#atom-entries) - Simon Willison
 - 06.02.2026 [Running Pydantic's Monty Rust sandboxed ...](https://simonwillison.net/2026/Feb/6/pydantic-monty/#atom-entries) - Simon Willison
 - 06.02.2026 [The Data Canary: How Netflix Validates C...](https://netflixtechblog.medium.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36?source=rss-c3aeaf49d8a4------2) - Netflix
 - 05.02.2026 [Context Engineering for Coding Agents](https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html) - Martin Fowler
@@ -26,7 +27,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 27.01.2026 [A first look at Aperture by Tailscale (p...](https://tailscale.com/blog/aperture-private-alpha) - Tailscale
 - 27.01.2026 [Some notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/) - Julia Evans
 - 26.01.2026 [10x job posts for 10x engineers](https://newsletter.posthog.com/p/10x-job-posts-for-10x-engineers) - PostHog
-- 26.01.2026 [ChatGPT Containers can now run bash, pip...](https://simonwillison.net/2026/Jan/26/chatgpt-containers/#atom-entries) - Simon Willison
 - 26.01.2026 [The AI Evolution of Graph Search at Netf...](https://netflixtechblog.com/the-ai-evolution-of-graph-search-at-netflix-d416ec5b1151?source=rss-c3aeaf49d8a4------2) - Netflix
 - 26.01.2026 [How Tailscale Peer Relays saved my holid...](https://tailscale.com/blog/peer-relays-international-networks) - Tailscale
 - 23.01.2026 [This month at Tailscale for January 2026](https://tailscale.com/blog/january-26-product-update) - Tailscale
