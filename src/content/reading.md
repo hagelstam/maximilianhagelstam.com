@@ -7,28 +7,30 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
-- 10.02.2026 [Introducing Showboat and Rodney, so agen...](https://simonwillison.net/2026/Feb/10/showboat-and-rodney/#atom-entries) - Simon Willison
 - 09.02.2026 [High-Throughput Graph Abstraction at Net...](https://netflixtechblog.com/high-throughput-graph-abstraction-at-netflix-part-i-e88063e6f6d5?source=rss-c3aeaf49d8a4------2) - Netflix
 - 09.02.2026 [Fragments: February  9](https://martinfowler.com/fragments/2026-02-09.html) - Martin Fowler
 - 09.02.2026 [The hidden danger of shipping fast](https://newsletter.posthog.com/p/the-hidden-danger-of-shipping-fast) - PostHog
 - 09.02.2026 [How We Release the Spotify App: A Look U...](https://engineering.atspotify.com/2026/2/how-we-release-the-spotify-app-part-2/) - Spotify
-- 07.02.2026 [How StrongDM's AI team build serious sof...](https://simonwillison.net/2026/Feb/7/software-factory/#atom-entries) - Simon Willison
-- 06.02.2026 [Running Pydantic's Monty Rust sandboxed ...](https://simonwillison.net/2026/Feb/6/pydantic-monty/#atom-entries) - Simon Willison
 - 06.02.2026 [The Data Canary: How Netflix Validates C...](https://netflixtechblog.medium.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36?source=rss-c3aeaf49d8a4------2) - Netflix
 - 05.02.2026 [Context Engineering for Coding Agents](https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html) - Martin Fowler
 - 05.02.2026 [Clankers with claws](https://world.hey.com/dhh/clankers-with-claws-9f86fa71) - DHH
+- 05.02.2026 [2025 Q4 DDoS threat report: A record-set...](https://blog.cloudflare.com/ddos-threat-report-2025-q4/) - Cloudflare
 - 05.02.2026 [Rewriting pycparser with the help of an ...](https://eli.thegreenplace.net/2026/rewriting-pycparser-with-the-help-of-an-llm/) - Eli Bendersky
 - 05.02.2026 [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) - Mitchell Hashimoto
 - 04.02.2026 [Fragments: February  4](https://martinfowler.com/fragments/2026-02-04.html) - Martin Fowler
-- 04.02.2026 [Distributing Go binaries like sqlite-sca...](https://simonwillison.net/2026/Feb/4/distributing-go-binaries/#atom-entries) - Simon Willison
 - 03.02.2026 [Staying secure and simple in a complex w...](https://tailscale.com/blog/welcome-ross-kukulinski) - Tailscale
 - 03.02.2026 [Cloud gaming is kinda amazing](https://world.hey.com/dhh/cloud-gaming-is-kinda-amazing-b8a19c57) - DHH
+- 03.02.2026 [Improve global upload performance with R...](https://blog.cloudflare.com/r2-local-uploads/) - Cloudflare
 - 31.01.2026 [Data Bridge: How Netflix simplifies data...](https://netflixtechblog.com/data-bridge-how-netflix-simplifies-data-movement-36d10d91c313?source=rss-c3aeaf49d8a4------2) - Netflix
-- 30.01.2026 [Moltbook is the most interesting place o...](https://simonwillison.net/2026/Jan/30/moltbook/#atom-entries) - Simon Willison
+- 30.01.2026 [Google’s AI advantage: why crawler sep...](https://blog.cloudflare.com/uk-google-ai-crawler-policy/) - Cloudflare
+- 30.01.2026 [Building vertical microfrontends on Clou...](https://blog.cloudflare.com/vertical-microfrontends/) - Cloudflare
 - 29.01.2026 [I replaced a $120/year micro-SaaS in 20 ...](https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/) - Gergely Orosz
+- 29.01.2026 [Introducing Moltworker: a self-hosted pe...](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/) - Cloudflare
+- 28.01.2026 [Running an Engineering Papers Reading Gu...](https://engineering.zalando.com/posts/2026/01/running-an-engineering-papers-reading-guild-at-zalando.html) - Zalando
 - 28.01.2026 [Bliki: Excessive Bold](https://martinfowler.com/bliki/ExcessiveBold.html) - Martin Fowler
 - 27.01.2026 [Assessing internal quality while coding ...](https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html) - Martin Fowler
 - 27.01.2026 [A first look at Aperture by Tailscale (p...](https://tailscale.com/blog/aperture-private-alpha) - Tailscale
+- 27.01.2026 [Some notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/) - Julia Evans
 - 26.01.2026 [10x job posts for 10x engineers](https://newsletter.posthog.com/p/10x-job-posts-for-10x-engineers) - PostHog
 - 26.01.2026 [The AI Evolution of Graph Search at Netf...](https://netflixtechblog.com/the-ai-evolution-of-graph-search-at-netflix-d416ec5b1151?source=rss-c3aeaf49d8a4------2) - Netflix
 - 26.01.2026 [How Tailscale Peer Relays saved my holid...](https://tailscale.com/blog/peer-relays-international-networks) - Tailscale
@@ -37,8 +39,10 @@ This page is automatically updated every night with the latest posts from blogs 
 - 22.01.2026 [Tailscale + BlueBubbles puts iMessage on...](https://tailscale.com/blog/bluebubbles-tailscale-imessage-android-pc-no-port-forwarding) - Tailscale
 - 21.01.2026 [Don't Trip[wire] Yourself: Testing Error...](https://mitchellh.com/writing/tripwire) - Mitchell Hashimoto
 - 17.01.2026 [Compiling Scheme to WebAssembly](https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/) - Eli Bendersky
+- 14.01.2026 [Paper Announcement: A Practical Approach...](https://engineering.zalando.com/posts/2026/01/publication-replenishment-engine.html) - Zalando
 - 12.01.2026 [How I actually get good advice](https://newsletter.posthog.com/p/how-i-actually-get-good-advice) - PostHog
 - 10.01.2026 [Finding and Fixing Ghostty's Largest Mem...](https://mitchellh.com/writing/ghostty-memory-leak-fix) - Mitchell Hashimoto
+- 08.01.2026 [A data model for Git (and other docs upd...](https://jvns.ca/blog/2026/01/08/a-data-model-for-git/) - Julia Evans
 - 07.01.2026 [The grief when AI writes most of the cod...](https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/) - Gergely Orosz
 - 07.01.2026 [Why We Use Separate Tech Stacks for Pers...](https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation/) - Spotify
 - 07.01.2026 [Promoting AI agents](https://world.hey.com/dhh/promoting-ai-agents-3ee04945) - DHH
@@ -46,8 +50,10 @@ This page is automatically updated every night with the latest posts from blogs 
 - 01.01.2026 [Summary of reading: October - December 2...](https://eli.thegreenplace.net/2025/summary-of-reading-october-december-2025/) - Eli Bendersky
 - 23.12.2025 [2025](/2025/) - Sam Rose
 - 22.12.2025 [The best of Product for Engineers in 202...](https://newsletter.posthog.com/p/the-best-of-product-for-engineers) - PostHog
+- 18.12.2025 [Contributing to Debezium: Fixing Logical...](https://engineering.zalando.com/posts/2025/12/contributing-to-debezium.html) - Zalando
 - 18.12.2025 [The Pulse: Cloudflare’s latest outage ...](https://blog.pragmaticengineer.com/the-pulse-cloudflares-latest-outage/) - Gergely Orosz
 - 18.12.2025 [Plugins case study: mdBook preprocessors](https://eli.thegreenplace.net/2025/plugins-case-study-mdbook-preprocessors/) - Eli Bendersky
+- 16.12.2025 [The Day Our Own Queries DoS’ed Us: Ins...](https://engineering.zalando.com/posts/2025/12/we-hacked-ourselves-so-you-dont-have-to.html) - Zalando
 - 16.12.2025 [The O'Saasy License](https://world.hey.com/dhh/the-o-saasy-license-336c5c8f) - DHH
 - 13.12.2025 [The Pulse: Could a 5-day RTO be around t...](https://blog.pragmaticengineer.com/the-pulse-could-a-5-day-rto-be-around-the-corner-for-big-tech/) - Gergely Orosz
 - 10.12.2025 [Revisiting "Let's Build a Compiler"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/) - Eli Bendersky
@@ -59,7 +65,9 @@ This page is automatically updated every night with the latest posts from blogs 
 - 24.11.2025 [Background Coding Agents: Context Engine...](https://engineering.atspotify.com/2025/11/context-engineering-background-coding-agents-part-2/) - Spotify
 - 18.11.2025 [I wrote a replacement for GitHub's code ...](https://blog.alexellis.io/ai-code-review-bot/) - Alex Ellis
 - 11.10.2025 [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing) - Mitchell Hashimoto
+- 10.10.2025 [Notes on switching to Helix from vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/) - Julia Evans
 - 04.10.2025 [Sora update #1](https://blog.samaltman.com/sora-update-number-1) - Sam Altman
+- 02.10.2025 [Accelerating Mobile App development at Z...](https://engineering.zalando.com/posts/2025/10/accelerating-mobile-app-development-at-zalando-with-rendering-engine-and-react-native.html) - Zalando
 - 30.09.2025 [Sora 2](https://blog.samaltman.com/sora-2) - Sam Altman
 - 23.09.2025 [Abundant Intelligence](https://blog.samaltman.com/abundant-intelligence) - Sam Altman
 - 09.09.2025 [Jakub and Szymon](https://blog.samaltman.com/jakub-and-szymon) - Sam Altman
@@ -67,7 +75,9 @@ This page is automatically updated every night with the latest posts from blogs 
 - 23.08.2025 [Big O](/big-o/) - Sam Rose
 - 18.08.2025 [I Bought An N100 Mini PC, Then Another](https://blog.alexellis.io/n100-mini-computer/) - Alex Ellis
 - 15.08.2025 [The 90s UNIX Utility That Fell Out of Fa...](https://blog.alexellis.io/the-90s-unix-command-fell-out-of-favour/) - Alex Ellis
+- 26.06.2025 [New zine: The Secret Rules of the Termin...](https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/) - Julia Evans
 - 10.06.2025 [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity) - Sam Altman
+- 10.06.2025 [Using `make` to compile C programs (for ...](https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/) - Julia Evans
 - 07.05.2025 [Reservoir Sampling](/reservoir-sampling/) - Sam Rose
 - 12.02.2025 [How to run Firecracker without KVM on cl...](https://blog.alexellis.io/how-to-run-firecracker-without-kvm-on-regular-cloud-vms/) - Alex Ellis
 - 20.12.2024 [Turing Machines](/turing-machines/) - Sam Rose

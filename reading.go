@@ -35,7 +35,6 @@ func main() {
 		{URL: "https://jvns.ca/atom.xml", Name: "Julia Evans"},
 		{URL: "https://feeds.feedburner.com/ThePragmaticEngineer", Name: "Gergely Orosz"},
 		{URL: "https://thorstenball.com/atom.xml", Name: "Thorsten Ball"},
-		{URL: "https://simonwillison.net/atom/entries", Name: "Simon Willison"},
 		{URL: "https://blog.alexellis.io/rss/", Name: "Alex Ellis"},
 		{URL: "https://samwho.dev/rss.xml", Name: "Sam Rose"},
 		{URL: "https://eli.thegreenplace.net/feeds/all.atom.xml", Name: "Eli Bendersky"},
@@ -44,6 +43,8 @@ func main() {
 		{URL: "https://netflixtechblog.medium.com/feed", Name: "Netflix"},
 		{URL: "https://tailscale.com/blog/index.xml", Name: "Tailscale"},
 		{URL: "https://engineering.atspotify.com/feed", Name: "Spotify"},
+		{URL: "https://engineering.zalando.com/atom.xml", Name: "Zalando"},
+		{URL: "https://blog.cloudflare.com/rss", Name: "Cloudflare"},
 
 		{URL: "https://newsletter.posthog.com/feed", Name: "PostHog"},
 		{URL: "https://highscalability.com/rss", Name: "High Scalability"},
