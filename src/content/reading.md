@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 12.02.2026 [Introducing Markdown for Agents](https://blog.cloudflare.com/markdown-for-agents/) - Cloudflare
+- 12.02.2026 [Automating RDS Postgres to Aurora Postgr...](https://netflixtechblog.com/automating-rds-postgres-to-aurora-postgres-migration-261ca045447f?source=rss-c3aeaf49d8a4------2) - Netflix
 - 09.02.2026 [High-Throughput Graph Abstraction at Net...](https://netflixtechblog.com/high-throughput-graph-abstraction-at-netflix-part-i-e88063e6f6d5?source=rss-c3aeaf49d8a4------2) - Netflix
 - 09.02.2026 [Fragments: February  9](https://martinfowler.com/fragments/2026-02-09.html) - Martin Fowler
 - 09.02.2026 [The hidden danger of shipping fast](https://newsletter.posthog.com/p/the-hidden-danger-of-shipping-fast) - PostHog
@@ -25,7 +27,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 30.01.2026 [Google’s AI advantage: why crawler sep...](https://blog.cloudflare.com/uk-google-ai-crawler-policy/) - Cloudflare
 - 30.01.2026 [Building vertical microfrontends on Clou...](https://blog.cloudflare.com/vertical-microfrontends/) - Cloudflare
 - 29.01.2026 [I replaced a $120/year micro-SaaS in 20 ...](https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/) - Gergely Orosz
-- 29.01.2026 [Introducing Moltworker: a self-hosted pe...](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/) - Cloudflare
 - 28.01.2026 [Running an Engineering Papers Reading Gu...](https://engineering.zalando.com/posts/2026/01/running-an-engineering-papers-reading-guild-at-zalando.html) - Zalando
 - 28.01.2026 [Bliki: Excessive Bold](https://martinfowler.com/bliki/ExcessiveBold.html) - Martin Fowler
 - 27.01.2026 [Assessing internal quality while coding ...](https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html) - Martin Fowler
@@ -46,7 +47,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 07.01.2026 [The grief when AI writes most of the cod...](https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/) - Gergely Orosz
 - 07.01.2026 [Why We Use Separate Tech Stacks for Pers...](https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation/) - Spotify
 - 07.01.2026 [Promoting AI agents](https://world.hey.com/dhh/promoting-ai-agents-3ee04945) - DHH
-- 01.01.2026 [Towards Generalizable and Efficient Larg...](https://netflixtechblog.com/towards-generalizable-and-efficient-large-scale-generative-recommenders-a7db648aa257?source=rss-c3aeaf49d8a4------2) - Netflix
 - 01.01.2026 [Summary of reading: October - December 2...](https://eli.thegreenplace.net/2025/summary-of-reading-october-december-2025/) - Eli Bendersky
 - 23.12.2025 [2025](/2025/) - Sam Rose
 - 22.12.2025 [The best of Product for Engineers in 202...](https://newsletter.posthog.com/p/the-best-of-product-for-engineers) - PostHog
