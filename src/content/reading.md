@@ -7,8 +7,12 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
-- 12.02.2026 [Introducing Markdown for Agents](https://blog.cloudflare.com/markdown-for-agents/) - Cloudflare
+- 13.02.2026 [Built for momentum: Tailscale Winter Upd...](https://tailscale.com/blog/winter-update-week-26) - Tailscale
+- 13.02.2026 [Fragments: February 13](https://martinfowler.com/fragments/2026-02-13.html) - Martin Fowler
+- 13.02.2026 [Scaling LLM Post-Training at Netflix](https://netflixtechblog.com/scaling-llm-post-training-at-netflix-0046f8790194?source=rss-c3aeaf49d8a4------2) - Netflix
+- 13.02.2026 [Shedding old code with ecdysis: graceful...](https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/) - Cloudflare
 - 12.02.2026 [Automating RDS Postgres to Aurora Postgr...](https://netflixtechblog.com/automating-rds-postgres-to-aurora-postgres-migration-261ca045447f?source=rss-c3aeaf49d8a4------2) - Netflix
+- 12.02.2026 [Introducing Markdown for Agents](https://blog.cloudflare.com/markdown-for-agents/) - Cloudflare
 - 09.02.2026 [High-Throughput Graph Abstraction at Net...](https://netflixtechblog.com/high-throughput-graph-abstraction-at-netflix-part-i-e88063e6f6d5?source=rss-c3aeaf49d8a4------2) - Netflix
 - 09.02.2026 [Fragments: February  9](https://martinfowler.com/fragments/2026-02-09.html) - Martin Fowler
 - 09.02.2026 [The hidden danger of shipping fast](https://newsletter.posthog.com/p/the-hidden-danger-of-shipping-fast) - PostHog
@@ -25,19 +29,15 @@ This page is automatically updated every night with the latest posts from blogs 
 - 03.02.2026 [Improve global upload performance with R...](https://blog.cloudflare.com/r2-local-uploads/) - Cloudflare
 - 31.01.2026 [Data Bridge: How Netflix simplifies data...](https://netflixtechblog.com/data-bridge-how-netflix-simplifies-data-movement-36d10d91c313?source=rss-c3aeaf49d8a4------2) - Netflix
 - 30.01.2026 [Google’s AI advantage: why crawler sep...](https://blog.cloudflare.com/uk-google-ai-crawler-policy/) - Cloudflare
-- 30.01.2026 [Building vertical microfrontends on Clou...](https://blog.cloudflare.com/vertical-microfrontends/) - Cloudflare
 - 29.01.2026 [I replaced a $120/year micro-SaaS in 20 ...](https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/) - Gergely Orosz
 - 28.01.2026 [Running an Engineering Papers Reading Gu...](https://engineering.zalando.com/posts/2026/01/running-an-engineering-papers-reading-guild-at-zalando.html) - Zalando
 - 28.01.2026 [Bliki: Excessive Bold](https://martinfowler.com/bliki/ExcessiveBold.html) - Martin Fowler
-- 27.01.2026 [Assessing internal quality while coding ...](https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html) - Martin Fowler
 - 27.01.2026 [A first look at Aperture by Tailscale (p...](https://tailscale.com/blog/aperture-private-alpha) - Tailscale
 - 27.01.2026 [Some notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/) - Julia Evans
 - 26.01.2026 [10x job posts for 10x engineers](https://newsletter.posthog.com/p/10x-job-posts-for-10x-engineers) - PostHog
-- 26.01.2026 [The AI Evolution of Graph Search at Netf...](https://netflixtechblog.com/the-ai-evolution-of-graph-search-at-netflix-d416ec5b1151?source=rss-c3aeaf49d8a4------2) - Netflix
 - 26.01.2026 [How Tailscale Peer Relays saved my holid...](https://tailscale.com/blog/peer-relays-international-networks) - Tailscale
 - 23.01.2026 [This month at Tailscale for January 2026](https://tailscale.com/blog/january-26-product-update) - Tailscale
 - 22.01.2026 [Congratulations to the recipients of the...](https://engineering.atspotify.com/2026/1/congratulations-to-the-recipients-of-the-2025-spotify-foss-fund/) - Spotify
-- 22.01.2026 [Tailscale + BlueBubbles puts iMessage on...](https://tailscale.com/blog/bluebubbles-tailscale-imessage-android-pc-no-port-forwarding) - Tailscale
 - 21.01.2026 [Don't Trip[wire] Yourself: Testing Error...](https://mitchellh.com/writing/tripwire) - Mitchell Hashimoto
 - 17.01.2026 [Compiling Scheme to WebAssembly](https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/) - Eli Bendersky
 - 14.01.2026 [Paper Announcement: A Practical Approach...](https://engineering.zalando.com/posts/2026/01/publication-replenishment-engine.html) - Zalando
