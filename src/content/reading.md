@@ -7,6 +7,9 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 24.02.2026 [DataJunction as Netflix’s answer to th...](https://netflixtechblog.medium.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss-c3aeaf49d8a4------2) - Netflix
+- 24.02.2026 [How we rebuilt Next.js with AI in one we...](https://blog.cloudflare.com/vinext/) - Cloudflare
+- 24.02.2026 [Knowledge Priming](https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html) - Martin Fowler
 - 23.02.2026 [The engineeringification of everything](https://newsletter.posthog.com/p/the-engineeringification-of-everything) - PostHog
 - 23.02.2026 [MediaFM: The Multimodal AI Foundation fo...](https://netflixtechblog.com/mediafm-the-multimodal-ai-foundation-for-media-understanding-at-netflix-e8c28df82e2d?source=rss-c3aeaf49d8a4------2) - Netflix
 - 23.02.2026 [Fragments: February 23](https://martinfowler.com/fragments/2026-02-23.html) - Martin Fowler
@@ -24,15 +27,12 @@ This page is automatically updated every night with the latest posts from blogs 
 - 18.02.2026 [Stream Tailscale logs to Google Cloud St...](https://tailscale.com/blog/gcs-log-streaming) - Tailscale
 - 18.02.2026 [Fleet device posture integration is now ...](https://tailscale.com/blog/fleet-device-posture-integration) - Tailscale
 - 18.02.2026 [Notes on clarifying man pages](https://jvns.ca/blog/2026/02/18/man-pages/) - Julia Evans
-- 17.02.2026 [Bliki: Agentic Email](https://martinfowler.com/bliki/AgenticEmail.html) - Martin Fowler
 - 13.02.2026 [Shedding old code with ecdysis: graceful...](https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/) - Cloudflare
 - 13.02.2026 [Scaling LLM Post-Training at Netflix](https://netflixtechblog.com/scaling-llm-post-training-at-netflix-0046f8790194?source=rss-c3aeaf49d8a4------2) - Netflix
 - 12.02.2026 [Automating RDS Postgres to Aurora Postgr...](https://netflixtechblog.com/automating-rds-postgres-to-aurora-postgres-migration-261ca045447f?source=rss-c3aeaf49d8a4------2) - Netflix
-- 12.02.2026 [Introducing Markdown for Agents](https://blog.cloudflare.com/markdown-for-agents/) - Cloudflare
 - 09.02.2026 [High-Throughput Graph Abstraction at Net...](https://netflixtechblog.com/high-throughput-graph-abstraction-at-netflix-part-i-e88063e6f6d5?source=rss-c3aeaf49d8a4------2) - Netflix
 - 09.02.2026 [The hidden danger of shipping fast](https://newsletter.posthog.com/p/the-hidden-danger-of-shipping-fast) - PostHog
 - 09.02.2026 [How We Release the Spotify App: A Look U...](https://engineering.atspotify.com/2026/2/how-we-release-the-spotify-app-part-2/) - Spotify
-- 06.02.2026 [The Data Canary: How Netflix Validates C...](https://netflixtechblog.medium.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36?source=rss-c3aeaf49d8a4------2) - Netflix
 - 05.02.2026 [Clankers with claws](https://world.hey.com/dhh/clankers-with-claws-9f86fa71) - DHH
 - 05.02.2026 [Rewriting pycparser with the help of an ...](https://eli.thegreenplace.net/2026/rewriting-pycparser-with-the-help-of-an-llm/) - Eli Bendersky
 - 05.02.2026 [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) - Mitchell Hashimoto
