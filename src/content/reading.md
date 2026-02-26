@@ -7,6 +7,10 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 26.02.2026 [Notes on Linear Algebra for Polynomials](https://eli.thegreenplace.net/2026/notes-on-linear-algebra-for-polynomials/) - Eli Bendersky
+- 25.02.2026 [LM Link: Use local models on remote devi...](https://tailscale.com/blog/lm-link-remote-llm-access) - Tailscale
+- 25.02.2026 [Fragments: February 25](https://martinfowler.com/fragments/2026-02-25.html) - Martin Fowler
+- 25.02.2026 [Software companies buying software: a st...](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) - Erik Bernhardsson
 - 24.02.2026 [DataJunction as Netflix’s answer to th...](https://netflixtechblog.medium.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss-c3aeaf49d8a4------2) - Netflix
 - 24.02.2026 [How we rebuilt Next.js with AI in one we...](https://blog.cloudflare.com/vinext/) - Cloudflare
 - 24.02.2026 [Knowledge Priming](https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html) - Martin Fowler
@@ -23,9 +27,7 @@ This page is automatically updated every night with the latest posts from blogs 
 - 19.02.2026 [Tailscale Services is now generally avai...](https://tailscale.com/blog/services-ga) - Tailscale
 - 19.02.2026 [Bliki: Host Leadership](https://martinfowler.com/bliki/HostLeadership.html) - Martin Fowler
 - 18.02.2026 [Omacon comes to New York](https://world.hey.com/dhh/omacon-comes-to-new-york-e6ee93cb) - DHH
-- 18.02.2026 [Fragments: February 18](https://martinfowler.com/fragments/2026-02-18.html) - Martin Fowler
 - 18.02.2026 [Stream Tailscale logs to Google Cloud St...](https://tailscale.com/blog/gcs-log-streaming) - Tailscale
-- 18.02.2026 [Fleet device posture integration is now ...](https://tailscale.com/blog/fleet-device-posture-integration) - Tailscale
 - 18.02.2026 [Notes on clarifying man pages](https://jvns.ca/blog/2026/02/18/man-pages/) - Julia Evans
 - 13.02.2026 [Shedding old code with ecdysis: graceful...](https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/) - Cloudflare
 - 13.02.2026 [Scaling LLM Post-Training at Netflix](https://netflixtechblog.com/scaling-llm-post-training-at-netflix-0046f8790194?source=rss-c3aeaf49d8a4------2) - Netflix
@@ -60,7 +62,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 16.12.2025 [The Day Our Own Queries DoS’ed Us: Ins...](https://engineering.zalando.com/posts/2025/12/we-hacked-ourselves-so-you-dont-have-to.html) - Zalando
 - 16.12.2025 [The O'Saasy License](https://world.hey.com/dhh/the-o-saasy-license-336c5c8f) - DHH
 - 13.12.2025 [The Pulse: Could a 5-day RTO be around t...](https://blog.pragmaticengineer.com/the-pulse-could-a-5-day-rto-be-around-the-corner-for-big-tech/) - Gergely Orosz
-- 10.12.2025 [Revisiting "Let's Build a Compiler"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/) - Eli Bendersky
 - 09.12.2025 [Background Coding Agents: Predictable Re...](https://engineering.atspotify.com/2025/12/feedback-loops-background-coding-agents-part-3/) - Spotify
 - 05.12.2025 [Downdetector and the real cost of no ups...](https://blog.pragmaticengineer.com/downdetector-and-the-real-cost-of-no-upstream-dependencies/) - Gergely Orosz
 - 03.12.2025 [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit) - Mitchell Hashimoto
@@ -91,7 +92,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 13.12.2023 [Simple sabotage for software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html) - Erik Bernhardsson
 - 16.08.2023 [The Swedbank Outage shows that Change Co...](https://highscalability.com/the-swedbank-outage-shows-that-change-controls-dont-work/) - High Scalability
 - 07.12.2022 [What I have been working on: Modal](https://erikbern.com/2022/12/07/what-ive-been-working-on-modal.html) - Erik Bernhardsson
-- 19.10.2022 [We are still early with the cloud: why s...](https://erikbern.com/2022/10/19/we-are-still-early-with-the-cloud.html) - Erik Bernhardsson
 - 17.05.2022 [Professional Programming: The First 10 Y...](http://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/) - Thorsten Ball
 - 15.09.2020 [The context in which we build software](http://thorstenball.com/blog/2020/09/15/the-context-in-which-we-build-software/) - Thorsten Ball
 - 08.09.2020 [How can you not be romantic about progra...](http://thorstenball.com/blog/2020/09/08/how-can-you-not-be-romantic-about-programming/) - Thorsten Ball
