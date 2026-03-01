@@ -7,12 +7,13 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 01.03.2026 [Notes on Lagrange Interpolating Polynomi...](https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/) - Eli Bendersky
 - 27.02.2026 [Behind the Winter Update: The team that ...](https://tailscale.com/blog/team-behind-winter-update) - Tailscale
 - 27.02.2026 [Toxic combinations: when small signals a...](https://blog.cloudflare.com/toxic-combinations-security/) - Cloudflare
-- 27.02.2026 [The most-seen UI on the Internet? Redesi...](https://blog.cloudflare.com/the-most-seen-ui-on-the-internet-redesigning-turnstile-and-challenge-pages/) - Cloudflare
 - 27.02.2026 [We deserve a better streams API for Java...](https://blog.cloudflare.com/a-better-web-streams-api/) - Cloudflare
 - 27.02.2026 [ASPA: making Internet routing more secur...](https://blog.cloudflare.com/aspa-secure-internet/) - Cloudflare
 - 27.02.2026 [Bringing more transparency to post-quant...](https://blog.cloudflare.com/radar-origin-pq-key-transparency-aspa/) - Cloudflare
+- 27.02.2026 [The most-seen UI on the Internet? Redesi...](https://blog.cloudflare.com/the-most-seen-ui-on-the-internet-redesigning-turnstile-and-challenge-pages/) - Cloudflare
 - 26.02.2026 [Notes on Linear Algebra for Polynomials](https://eli.thegreenplace.net/2026/notes-on-linear-algebra-for-polynomials/) - Eli Bendersky
 - 25.02.2026 [LM Link: Use local models on remote devi...](https://tailscale.com/blog/lm-link-remote-llm-access) - Tailscale
 - 25.02.2026 [Fragments: February 25](https://martinfowler.com/fragments/2026-02-25.html) - Martin Fowler
@@ -58,7 +59,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 22.12.2025 [The best of Product for Engineers in 202...](https://newsletter.posthog.com/p/the-best-of-product-for-engineers) - PostHog
 - 18.12.2025 [Contributing to Debezium: Fixing Logical...](https://engineering.zalando.com/posts/2025/12/contributing-to-debezium.html) - Zalando
 - 18.12.2025 [The Pulse: Cloudflare’s latest outage ...](https://blog.pragmaticengineer.com/the-pulse-cloudflares-latest-outage/) - Gergely Orosz
-- 18.12.2025 [Plugins case study: mdBook preprocessors](https://eli.thegreenplace.net/2025/plugins-case-study-mdbook-preprocessors/) - Eli Bendersky
 - 16.12.2025 [The Day Our Own Queries DoS’ed Us: Ins...](https://engineering.zalando.com/posts/2025/12/we-hacked-ourselves-so-you-dont-have-to.html) - Zalando
 - 16.12.2025 [The O'Saasy License](https://world.hey.com/dhh/the-o-saasy-license-336c5c8f) - DHH
 - 13.12.2025 [The Pulse: Could a 5-day RTO be around t...](https://blog.pragmaticengineer.com/the-pulse-could-a-5-day-rto-be-around-the-corner-for-big-tech/) - Gergely Orosz
