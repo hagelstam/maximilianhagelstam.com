@@ -7,28 +7,11 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
-- 01.03.2026 [Notes on Lagrange Interpolating Polynomi...](https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/) - Eli Bendersky
-- 27.02.2026 [Behind the Winter Update: The team that ...](https://tailscale.com/blog/team-behind-winter-update) - Tailscale
-- 27.02.2026 [Toxic combinations: when small signals a...](https://blog.cloudflare.com/toxic-combinations-security/) - Cloudflare
-- 27.02.2026 [We deserve a better streams API for Java...](https://blog.cloudflare.com/a-better-web-streams-api/) - Cloudflare
-- 27.02.2026 [ASPA: making Internet routing more secur...](https://blog.cloudflare.com/aspa-secure-internet/) - Cloudflare
-- 27.02.2026 [Bringing more transparency to post-quant...](https://blog.cloudflare.com/radar-origin-pq-key-transparency-aspa/) - Cloudflare
-- 27.02.2026 [The most-seen UI on the Internet? Redesi...](https://blog.cloudflare.com/the-most-seen-ui-on-the-internet-redesigning-turnstile-and-challenge-pages/) - Cloudflare
-- 26.02.2026 [Notes on Linear Algebra for Polynomials](https://eli.thegreenplace.net/2026/notes-on-linear-algebra-for-polynomials/) - Eli Bendersky
-- 25.02.2026 [LM Link: Use local models on remote devi...](https://tailscale.com/blog/lm-link-remote-llm-access) - Tailscale
-- 25.02.2026 [Fragments: February 25](https://martinfowler.com/fragments/2026-02-25.html) - Martin Fowler
 - 25.02.2026 [Software companies buying software: a st...](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) - Erik Bernhardsson
 - 24.02.2026 [DataJunction as Netflix’s answer to th...](https://netflixtechblog.medium.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss-c3aeaf49d8a4------2) - Netflix
-- 24.02.2026 [Knowledge Priming](https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html) - Martin Fowler
 - 23.02.2026 [The engineeringification of everything](https://newsletter.posthog.com/p/the-engineeringification-of-everything) - PostHog
 - 23.02.2026 [MediaFM: The Multimodal AI Foundation fo...](https://netflixtechblog.com/mediafm-the-multimodal-ai-foundation-for-media-understanding-at-netflix-e8c28df82e2d?source=rss-c3aeaf49d8a4------2) - Netflix
-- 23.02.2026 [Fragments: February 23](https://martinfowler.com/fragments/2026-02-23.html) - Martin Fowler
-- 20.02.2026 [Making infrastructure access lighter, si...](https://tailscale.com/blog/auditable-infrastructure-access) - Tailscale
 - 19.02.2026 [Our Multi-Agent Architecture for Smarter...](https://engineering.atspotify.com/2026/2/our-multi-agent-architecture-for-smarter-advertising/) - Spotify
-- 19.02.2026 [Fragments: February 19](https://martinfowler.com/fragments/2026-02-19.html) - Martin Fowler
-- 19.02.2026 [Workload identity federation is generall...](https://tailscale.com/blog/workload-identity-ga) - Tailscale
-- 19.02.2026 [Tailscale Services is now generally avai...](https://tailscale.com/blog/services-ga) - Tailscale
-- 19.02.2026 [Bliki: Host Leadership](https://martinfowler.com/bliki/HostLeadership.html) - Martin Fowler
 - 18.02.2026 [Omacon comes to New York](https://world.hey.com/dhh/omacon-comes-to-new-york-e6ee93cb) - DHH
 - 18.02.2026 [Notes on clarifying man pages](https://jvns.ca/blog/2026/02/18/man-pages/) - Julia Evans
 - 13.02.2026 [Scaling LLM Post-Training at Netflix](https://netflixtechblog.com/scaling-llm-post-training-at-netflix-0046f8790194?source=rss-c3aeaf49d8a4------2) - Netflix
@@ -37,7 +20,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 09.02.2026 [The hidden danger of shipping fast](https://newsletter.posthog.com/p/the-hidden-danger-of-shipping-fast) - PostHog
 - 09.02.2026 [How We Release the Spotify App: A Look U...](https://engineering.atspotify.com/2026/2/how-we-release-the-spotify-app-part-2/) - Spotify
 - 05.02.2026 [Clankers with claws](https://world.hey.com/dhh/clankers-with-claws-9f86fa71) - DHH
-- 05.02.2026 [Rewriting pycparser with the help of an ...](https://eli.thegreenplace.net/2026/rewriting-pycparser-with-the-help-of-an-llm/) - Eli Bendersky
 - 05.02.2026 [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) - Mitchell Hashimoto
 - 03.02.2026 [Cloud gaming is kinda amazing](https://world.hey.com/dhh/cloud-gaming-is-kinda-amazing-b8a19c57) - DHH
 - 29.01.2026 [I replaced a $120/year micro-SaaS in 20 ...](https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/) - Gergely Orosz
@@ -46,15 +28,18 @@ This page is automatically updated every night with the latest posts from blogs 
 - 26.01.2026 [10x job posts for 10x engineers](https://newsletter.posthog.com/p/10x-job-posts-for-10x-engineers) - PostHog
 - 22.01.2026 [Congratulations to the recipients of the...](https://engineering.atspotify.com/2026/1/congratulations-to-the-recipients-of-the-2025-spotify-foss-fund/) - Spotify
 - 21.01.2026 [Don't Trip[wire] Yourself: Testing Error...](https://mitchellh.com/writing/tripwire) - Mitchell Hashimoto
-- 17.01.2026 [Compiling Scheme to WebAssembly](https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/) - Eli Bendersky
+- 19.01.2026 [Fast Unrounded Scaling: Proof by Ivy](https://research.swtch.com/fp-proof) - Russ Cox
+- 19.01.2026 [Floating-Point Printing and Parsing Can ...](https://research.swtch.com/fp) - Russ Cox
 - 14.01.2026 [Paper Announcement: A Practical Approach...](https://engineering.zalando.com/posts/2026/01/publication-replenishment-engine.html) - Zalando
 - 12.01.2026 [How I actually get good advice](https://newsletter.posthog.com/p/how-i-actually-get-good-advice) - PostHog
+- 10.01.2026 [Pulling a New Proof from Knuth’s Fixed...](https://research.swtch.com/fp-knuth) - Russ Cox
+- 10.01.2026 [Floating Point Formatting](https://research.swtch.com/fp-all) - Russ Cox
 - 10.01.2026 [Finding and Fixing Ghostty's Largest Mem...](https://mitchellh.com/writing/ghostty-memory-leak-fix) - Mitchell Hashimoto
 - 08.01.2026 [A data model for Git (and other docs upd...](https://jvns.ca/blog/2026/01/08/a-data-model-for-git/) - Julia Evans
 - 07.01.2026 [The grief when AI writes most of the cod...](https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/) - Gergely Orosz
 - 07.01.2026 [Why We Use Separate Tech Stacks for Pers...](https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation/) - Spotify
 - 07.01.2026 [Promoting AI agents](https://world.hey.com/dhh/promoting-ai-agents-3ee04945) - DHH
-- 01.01.2026 [Summary of reading: October - December 2...](https://eli.thegreenplace.net/2025/summary-of-reading-october-december-2025/) - Eli Bendersky
+- 06.01.2026 [One Year at PostHog](https://haacked.com/archive/2026/01/06/one-year-at-posthog/) - Phil Haack
 - 23.12.2025 [2025](/2025/) - Sam Rose
 - 22.12.2025 [The best of Product for Engineers in 202...](https://newsletter.posthog.com/p/the-best-of-product-for-engineers) - PostHog
 - 18.12.2025 [Contributing to Debezium: Fixing Logical...](https://engineering.zalando.com/posts/2025/12/contributing-to-debezium.html) - Zalando
@@ -65,13 +50,17 @@ This page is automatically updated every night with the latest posts from blogs 
 - 09.12.2025 [Background Coding Agents: Predictable Re...](https://engineering.atspotify.com/2025/12/feedback-loops-background-coding-agents-part-3/) - Spotify
 - 05.12.2025 [Downdetector and the real cost of no ups...](https://blog.pragmaticengineer.com/downdetector-and-the-real-cost-of-no-upstream-dependencies/) - Gergely Orosz
 - 03.12.2025 [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit) - Mitchell Hashimoto
+- 21.11.2025 [tree-me: Because git worktrees shouldn�...](https://haacked.com/archive/2025/11/21/tree-me/) - Phil Haack
 - 18.11.2025 [I wrote a replacement for GitHub's code ...](https://blog.alexellis.io/ai-code-review-bot/) - Alex Ellis
 - 11.10.2025 [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing) - Mitchell Hashimoto
 - 10.10.2025 [Notes on switching to Helix from vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/) - Julia Evans
 - 04.10.2025 [Sora update #1](https://blog.samaltman.com/sora-update-number-1) - Sam Altman
 - 02.10.2025 [Accelerating Mobile App development at Z...](https://engineering.zalando.com/posts/2025/10/accelerating-mobile-app-development-at-zalando-with-rendering-engine-and-react-native.html) - Zalando
 - 30.09.2025 [Sora 2](https://blog.samaltman.com/sora-2) - Sam Altman
+- 29.09.2025 [Spelungit: When `git log –grep` isn’...](https://haacked.com/archive/2025/09/29/announcing-spelungit/) - Phil Haack
 - 23.09.2025 [Abundant Intelligence](https://blog.samaltman.com/abundant-intelligence) - Sam Altman
+- 21.09.2025 [From single-tenant to multi-tenant](https://bobheadxi.dev/multi-tenant/) - Robert Lin
+- 20.09.2025 [Building and operating online services a...](https://bobheadxi.dev/managed-services-platform/) - Robert Lin
 - 09.09.2025 [Jakub and Szymon](https://blog.samaltman.com/jakub-and-szymon) - Sam Altman
 - 30.08.2025 [Preview: Slice Up Bare-Metal with Slicer](https://blog.alexellis.io/slicer-bare-metal-preview/) - Alex Ellis
 - 23.08.2025 [Big O](/big-o/) - Sam Rose
@@ -80,9 +69,13 @@ This page is automatically updated every night with the latest posts from blogs 
 - 26.06.2025 [New zine: The Secret Rules of the Termin...](https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/) - Julia Evans
 - 10.06.2025 [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity) - Sam Altman
 - 07.05.2025 [Reservoir Sampling](/reservoir-sampling/) - Sam Rose
+- 25.04.2025 [Differential Coverage for Debugging](https://research.swtch.com/diffcover) - Russ Cox
+- 17.04.2025 [Cleaning up gone branches](https://haacked.com/archive/2025/04/17/git-gone/) - Phil Haack
+- 25.02.2025 [Using PostHog in your .NET applications](https://haacked.com/archive/2025/02/25/posthog-dotnet-1.0/) - Phil Haack
 - 12.02.2025 [How to run Firecracker without KVM on cl...](https://blog.alexellis.io/how-to-run-firecracker-without-kvm-on-regular-cloud-vms/) - Alex Ellis
 - 20.12.2024 [Turing Machines](/turing-machines/) - Sam Rose
 - 27.09.2024 [It's hard to write code for computers, b...](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html) - Erik Bernhardsson
+- 23.08.2024 [Scaling Sourcegraph’s managed multi-si...](https://bobheadxi.dev/multi-single-tenant/) - Robert Lin
 - 01.06.2024 [A Commitment to Art and Dogs](/dogs/) - Sam Rose
 - 09.05.2024 [Kafka 101](https://highscalability.com/untitled-2/) - High Scalability
 - 07.04.2024 [Predicting solar eclipses with Python](https://erikbern.com/2024/04/07/predicting-solar-eclipses-with-python.html) - Erik Bernhardsson
@@ -92,6 +85,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 13.12.2023 [Simple sabotage for software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html) - Erik Bernhardsson
 - 16.08.2023 [The Swedbank Outage shows that Change Co...](https://highscalability.com/the-swedbank-outage-shows-that-change-controls-dont-work/) - High Scalability
 - 07.12.2022 [What I have been working on: Modal](https://erikbern.com/2022/12/07/what-ive-been-working-on-modal.html) - Erik Bernhardsson
+- 10.10.2022 [Investing in the development of the deve...](https://bobheadxi.dev/investing-in-development-of-devx/) - Robert Lin
+- 21.05.2022 [Anatomy of a logger](https://bobheadxi.dev/anatomy-of-a-logger/) - Robert Lin
 - 17.05.2022 [Professional Programming: The First 10 Y...](http://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/) - Thorsten Ball
 - 15.09.2020 [The context in which we build software](http://thorstenball.com/blog/2020/09/15/the-context-in-which-we-build-software/) - Thorsten Ball
 - 08.09.2020 [How can you not be romantic about progra...](http://thorstenball.com/blog/2020/09/08/how-can-you-not-be-romantic-about-programming/) - Thorsten Ball
