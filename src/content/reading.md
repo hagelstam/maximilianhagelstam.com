@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 05.03.2026 [The Pulse: Cloudflare rewrites Next.js a...](https://blog.pragmaticengineer.com/the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source/) - Gergely Orosz
 - 03.03.2026 [Why We Ditched Flink Table API Joins: Cu...](https://engineering.zalando.com/posts/2026/03/why-we-ditched-flink-table-api-joins-cutting-state.html) - Zalando
 - 03.03.2026 [Optimizing Recommendation Systems with J...](https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec?source=rss-c3aeaf49d8a4------2) - Netflix
 - 25.02.2026 [Software companies buying software: a st...](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) - Erik Bernhardsson
@@ -49,7 +50,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 16.12.2025 [The O'Saasy License](https://world.hey.com/dhh/the-o-saasy-license-336c5c8f) - DHH
 - 13.12.2025 [The Pulse: Could a 5-day RTO be around t...](https://blog.pragmaticengineer.com/the-pulse-could-a-5-day-rto-be-around-the-corner-for-big-tech/) - Gergely Orosz
 - 09.12.2025 [Background Coding Agents: Predictable Re...](https://engineering.atspotify.com/2025/12/feedback-loops-background-coding-agents-part-3/) - Spotify
-- 05.12.2025 [Downdetector and the real cost of no ups...](https://blog.pragmaticengineer.com/downdetector-and-the-real-cost-of-no-upstream-dependencies/) - Gergely Orosz
 - 03.12.2025 [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit) - Mitchell Hashimoto
 - 21.11.2025 [tree-me: Because git worktrees shouldnâ€...](https://haacked.com/archive/2025/11/21/tree-me/) - Phil Haack
 - 18.11.2025 [I wrote a replacement for GitHub's code ...](https://blog.alexellis.io/ai-code-review-bot/) - Alex Ellis
